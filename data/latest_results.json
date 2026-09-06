@@ -1,0 +1,1000 @@
+{
+  "checked_at_utc": "2026-09-06T13:45:20.284307+00:00",
+  "max_age_days_filter": 3,
+  "results": [
+    {
+      "company": "Tredence",
+      "url": "https://www.tredence.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Fractal Analytics",
+      "url": "https://fractal.ai/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Quantiphi",
+      "url": "https://www.quantiphi.com/careers",
+      "status": "ok_role_found_no_date_or_stale",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Data Analytics",
+          "age_days": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "company": "Factspan Analytics",
+      "url": "https://www.factspan.com/careers/",
+      "status": "ok_role_found_no_date_or_stale",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Customer Data Analytics",
+          "age_days": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "company": "Gramener (Straive)",
+      "url": "https://gramener.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "LatentView Analytics",
+      "url": "https://www.latentview.com/careers/",
+      "status": "ok_role_found_no_date_or_stale",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Are you looking for more information about LatentView? Would you like to know more about the work we do? Would you like to read about the latest trends in data ",
+          "age_days": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "company": "Tiger Analytics",
+      "url": "https://www.tigeranalytics.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Mu Sigma",
+      "url": "https://www.mu-sigma.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Absolutdata",
+      "url": "https://www.absolutdata.com/careers/",
+      "status": "blocked_or_failed",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": "Page.goto: Timeout 25000ms exceeded.\nCall log:\nnavigating to \"https://www.absolutdata.com/careers/\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "company": "Course5 Intelligence",
+      "url": "https://course5i.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Aryng",
+      "url": "https://www.aryng.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Indegene",
+      "url": "https://www.indegene.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Straive",
+      "url": "https://www.straive.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Bridgei2i (Bain & Co.)",
+      "url": "https://www.bridgei2i.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Sigmoid Analytics",
+      "url": "https://www.sigmoid.com/careers/",
+      "status": "ok_role_found_no_date_or_stale",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Travel the upward curve towards a great data analytics career",
+          "age_days": null
+        },
+        {
+          "title_line": "Unlock new opportunities with data analytics",
+          "age_days": null
+        },
+        {
+          "title_line": "Sr Data Scientist",
+          "age_days": null
+        },
+        {
+          "title_line": "Sr Data Scientist",
+          "age_days": null
+        },
+        {
+          "title_line": "Explore an exciting career in data analytics with rich peer-to-peer learning and deliver real-world business impact across the latest technology stack.",
+          "age_days": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "company": "Crayon Data",
+      "url": "https://www.crayondata.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Marlabs",
+      "url": "https://www.marlabs.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Affine Analytics",
+      "url": "https://www.affine.ai/careers/",
+      "status": "ok_role_found_no_date_or_stale",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Consultant Data Scientist",
+          "age_days": null
+        },
+        {
+          "title_line": "Consultant- Data Scientist with GenAI",
+          "age_days": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "company": "Genpact",
+      "url": "https://www.genpact.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "ZS Associates",
+      "url": "https://www.zs.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "EXL Analytics",
+      "url": "https://www.exlservice.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Axtria",
+      "url": "https://www.axtria.com/careers",
+      "status": "ok_role_found_no_date_or_stale",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Clinical Data Scientist",
+          "age_days": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "company": "Razorpay",
+      "url": "https://razorpay.com/jobs/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Groww",
+      "url": "https://groww.in/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "PhonePe",
+      "url": "https://www.phonepe.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "CRED",
+      "url": "https://careers.cred.club",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Slice",
+      "url": "https://www.sliceit.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Zerodha",
+      "url": "https://zerodha.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Jupiter Money",
+      "url": "https://jupiter.money/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Fi Money (epiFi)",
+      "url": "https://fi.money/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "BharatPe",
+      "url": "https://bharatpe.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Paytm",
+      "url": "https://paytm.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Cashfree Payments",
+      "url": "https://www.cashfree.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Uni Cards",
+      "url": "https://uni.cards/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "KreditBee",
+      "url": "https://www.kreditbee.in/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Perfios",
+      "url": "https://www.perfios.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Flipkart",
+      "url": "https://www.flipkartcareers.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Meesho",
+      "url": "https://careers.meesho.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Swiggy",
+      "url": "https://careers.swiggy.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Zomato (Eternal)",
+      "url": "https://www.zomato.com/careers",
+      "status": "blocked_or_failed",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.zomato.com/careers\nCall log:\nnavigating to \"https://www.zomato.com/careers\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "company": "Zepto",
+      "url": "https://www.zeptonow.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "BigBasket",
+      "url": "https://www.bigbasket.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Urban Company",
+      "url": "https://www.urbancompany.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Cars24",
+      "url": "https://www.cars24.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Lenskart",
+      "url": "https://www.lenskart.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Licious",
+      "url": "https://www.licious.in/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Rebel Foods",
+      "url": "https://www.rebelfoods.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Myntra",
+      "url": "https://careers.myntra.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Swiggy Instamart",
+      "url": "https://careers.swiggy.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Freshworks",
+      "url": "https://www.freshworks.com/company/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Zoho",
+      "url": "https://www.zoho.com/careers.html",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Postman",
+      "url": "https://www.postman.com/careers/",
+      "status": "ok_role_found_no_date_or_stale",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Data Analytics",
+          "age_days": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "company": "Chargebee",
+      "url": "https://www.chargebee.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "CleverTap",
+      "url": "https://clevertap.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Whatfix",
+      "url": "https://whatfix.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Hevo Data",
+      "url": "https://hevodata.com/careers/",
+      "status": "ok_role_found_no_date_or_stale",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Senior Data Analyst",
+          "age_days": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "company": "Yellow.ai",
+      "url": "https://yellow.ai/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Darwinbox",
+      "url": "https://darwinbox.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Uniphore",
+      "url": "https://www.uniphore.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "MoEngage",
+      "url": "https://www.moengage.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Zenoti",
+      "url": "https://www.zenoti.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Innovaccer",
+      "url": "https://innovaccer.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Amazon",
+      "url": "https://www.amazon.jobs",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Microsoft",
+      "url": "https://careers.microsoft.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Google",
+      "url": "https://careers.google.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "SAP Labs India",
+      "url": "https://jobs.sap.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Salesforce",
+      "url": "https://careers.salesforce.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Oracle",
+      "url": "https://www.oracle.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Adobe",
+      "url": "https://careers.adobe.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Walmart Global Tech",
+      "url": "https://walmartglobaltech.com/careers/",
+      "status": "blocked_or_failed",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://walmartglobaltech.com/careers/\nCall log:\nnavigating to \"https://walmartglobaltech.com/careers/\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "company": "Target Corporation (India)",
+      "url": "https://tech.target.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Dell Technologies",
+      "url": "https://jobs.dell.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "ServiceNow",
+      "url": "https://careers.servicenow.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Cisco",
+      "url": "https://jobs.cisco.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Intuit",
+      "url": "https://jobs.intuit.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Uber India",
+      "url": "https://www.uber.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Goldman Sachs (GCC)",
+      "url": "https://www.goldmansachs.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "JPMorgan Chase (GCC)",
+      "url": "https://careers.jpmorgan.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Deutsche Bank (GCC)",
+      "url": "https://careers.db.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Wells Fargo (GCC)",
+      "url": "https://www.wellsfargojobs.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "American Express (GCC)",
+      "url": "https://aexp.eightfold.ai",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Qualcomm",
+      "url": "https://www.qualcomm.com/company/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "NVIDIA",
+      "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "ADP",
+      "url": "https://jobs.adp.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Micron Technology",
+      "url": "https://www.micron.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Bank of America (GCC)",
+      "url": "https://careers.bankofamerica.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Deloitte",
+      "url": "https://www2.deloitte.com/global/en/careers.html",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "PwC India",
+      "url": "https://www.pwc.in/careers.html",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "EY",
+      "url": "https://www.ey.com/en_in/careers",
+      "status": "ok_role_found_no_date_or_stale",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Whether you\u2019re an experienced professional ready for your next challenge, data scientist eager to innovate, or a student with dreams of shaping your future, joi",
+          "age_days": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "company": "KPMG India",
+      "url": "https://kpmg.com/in/en/careers.html",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Accenture",
+      "url": "https://www.accenture.com/in-en/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Capgemini",
+      "url": "https://www.capgemini.com/in-en/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Cognizant",
+      "url": "https://careers.cognizant.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Infosys",
+      "url": "https://www.infosys.com/careers.html",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Wipro",
+      "url": "https://careers.wipro.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "TCS",
+      "url": "https://www.tcs.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "HCLTech",
+      "url": "https://www.hcltech.com/careers",
+      "status": "blocked_or_failed",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.hcltech.com/careers\nCall log:\nnavigating to \"https://www.hcltech.com/careers\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "company": "Tech Mahindra",
+      "url": "https://careers.techmahindra.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "LTIMindtree",
+      "url": "https://www.ltimindtree.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Mphasis",
+      "url": "https://www.mphasis.com/home/careers.html",
+      "status": "ok_role_found_no_date_or_stale",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Using Data Analytics to Personalize Mortgage Solutions for Younger Generations",
+          "age_days": null
+        },
+        {
+          "title_line": "Using Data Analytics to Personalize Mortgage Solutions for Younger Generations",
+          "age_days": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "company": "Hexaware",
+      "url": "https://hexaware.com/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Persistent Systems",
+      "url": "https://www.persistent.com/careers/",
+      "status": "blocked_or_failed",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.persistent.com/careers/\nCall log:\nnavigating to \"https://www.persistent.com/careers/\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "company": "HDFC Bank",
+      "url": "https://www.hdfcbank.com/personal/about-us/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "ICICI Bank",
+      "url": "https://www.icicicareers.com",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Axis Bank",
+      "url": "https://careers.axisbank.com",
+      "status": "blocked_or_failed",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.axisbank.com/\nCall log:\nnavigating to \"https://careers.axisbank.com/\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "company": "Kotak Mahindra Bank",
+      "url": "https://www.kotak.com/en/careers.html",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Bajaj Finserv",
+      "url": "https://www.bajajfinserv.in/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "HSBC (GCC)",
+      "url": "https://www.hsbc.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Standard Chartered (GCC)",
+      "url": "https://www.sc.com/en/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "ICICI Lombard",
+      "url": "https://www.icicilombard.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Dr. Reddy's Laboratories",
+      "url": "https://www.drreddys.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Novartis Healthcare (GCC)",
+      "url": "https://www.novartis.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "GSK (GCC)",
+      "url": "https://www.gsk.com/en-gb/careers/",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Optum (UnitedHealth Group)",
+      "url": "https://www.uhg.com/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    },
+    {
+      "company": "Providence India",
+      "url": "https://www.providence.org/careers",
+      "status": "ok_no_matching_role_found",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": null
+    }
+  ]
+}
