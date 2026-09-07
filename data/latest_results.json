@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-06T20:39:30.799795+00:00",
+  "checked_at_utc": "2026-09-07T21:42:23.540246+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -13,13 +13,8 @@
     {
       "company": "Fractal Analytics",
       "url": "https://fractal.ai/careers/",
-      "status": "ok_with_fresh_match",
-      "matches_under_3_days": [
-        {
-          "title_line": "Senior Data Analytics Consultant",
-          "age_days": 2
-        }
-      ],
+      "status": "ok_role_found_no_date_or_stale",
+      "matches_under_3_days": [],
       "matches_no_date_found": [],
       "error": null
     },
@@ -39,14 +34,9 @@
     {
       "company": "Factspan Analytics",
       "url": "https://www.factspan.com/careers/",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
-      "matches_no_date_found": [
-        {
-          "title_line": "Customer Data Analytics",
-          "age_days": null
-        }
-      ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
@@ -856,9 +846,14 @@
     {
       "company": "Tech Mahindra",
       "url": "https://careers.techmahindra.com",
-      "status": "ok_no_matching_role_found",
+      "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Data Scientist",
+          "age_days": null
+        }
+      ],
       "error": null
     },
     {
