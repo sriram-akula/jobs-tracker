@@ -87,7 +87,7 @@ DEBUG_DIR = Path(__file__).parent / "debug"
 
 
 def extract_matches(page_text: str):
-    """Scan rendered page text for role-line + nearby-age signals."""
+    """Scan rendered page text for role-line + nearby-age signals + JD context."""
     lines = [l.strip() for l in page_text.splitlines() if l.strip()]
     findings = []
     for i, line in enumerate(lines):
@@ -96,11 +96,12 @@ def extract_matches(page_text: str):
         if any(p.search(line) for p in EXCLUDE_IF_CONTAINS):
             continue
 
-        # look at a small window around the title line for an age signal
-        window = " ".join(lines[max(0, i - 2): i + 4])
+        # small window for the age signal (kept tight so date phrases from a
+        # neighboring, unrelated listing don't leak in)
+        age_window = " ".join(lines[max(0, i - 2): i + 4])
         age_days = None
         for pattern, kind in AGE_PATTERNS:
-            m = pattern.search(window)
+            m = pattern.search(age_window)
             if not m:
                 continue
             if kind == "hours":
@@ -111,7 +112,16 @@ def extract_matches(page_text: str):
                 age_days = kind
             break
 
-        findings.append({"title_line": line[:160], "age_days": age_days})
+        # wider window as a rough JD-context proxy for ATS keyword scoring -
+        # most listing pages don't show the full JD, so this is partial
+        # context at best, not a guarantee of the complete job description.
+        jd_context = " ".join(lines[max(0, i - 3): i + 15])[:2000]
+
+        findings.append({
+            "title_line": line[:160],
+            "age_days": age_days,
+            "jd_context": jd_context,
+        })
     return findings
 
 
