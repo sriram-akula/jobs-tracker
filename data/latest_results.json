@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-08T04:05:50.611539+00:00",
+  "checked_at_utc": "2026-09-08T21:21:29.797563+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -13,8 +13,14 @@
     {
       "company": "Fractal Analytics",
       "url": "https://fractal.ai/careers/",
-      "status": "ok_role_found_no_date_or_stale",
-      "matches_under_3_days": [],
+      "status": "ok_with_fresh_match",
+      "matches_under_3_days": [
+        {
+          "title_line": "Sr. Data Scientist \u2013 Agentic AI",
+          "age_days": 0,
+          "jd_context": "posted on Posted Today SR-43641 Sr. Data Scientist \u2013 Agentic AI locations Bengaluru posted on Posted Today SR-42058 Snowflake Data Engineer locations London posted on Posted Yesterday SR-45644 Senior Data Engineer locations California"
+        }
+      ],
       "matches_no_date_found": [],
       "error": null
     },
@@ -35,9 +41,15 @@
     {
       "company": "Factspan Analytics",
       "url": "https://www.factspan.com/careers/",
-      "status": "ok_no_matching_role_found",
+      "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Customer Data Analytics",
+          "age_days": null,
+          "jd_context": "Data Governance Functional Expertise Marketing Analytics Customer Data Analytics Product Analytics Sales Analytics Industries Retail & CPG Life Science & Healthcare Hospitality Logistics Technology & Media Our Company About Us Careers Contact Us \u00a9 2026 Factspan. All right reserved. Privacy Policy Scroll to Top"
+        }
+      ],
       "error": null
     },
     {
@@ -670,9 +682,20 @@
     {
       "company": "Intuit",
       "url": "https://jobs.intuit.com",
-      "status": "ok_no_matching_role_found",
+      "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "10 Skills You Need to Succeed as a Data Scientist",
+          "age_days": null,
+          "jd_context": "Management Reiterates Confidence in Long-Term Growth Trajectory Intuit significantly scales share repurchase program; Intuit\u2019s founder and executive leadership team terminate pre-scheduled stock sales. Blog 10 Skills You Need to Succeed as a Data Scientist Considering a career as a data scientist? Explore essential data science skills to enhance your career prospects with Intuit as your guide. 61 Results found. Sign Up for Job Alerts Be the first to find out about open jobs that fit what you're looking for. Sign Up Sitemap Insight Betterworks About Us Careers Press Room \u00a9 2025 Intuit Inc. All rights reserved. Intuit is proud to be an equal opportunity and affirmative action employer. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please talk with your recruiter or send a request to TalentAcquisition@intuit.com. For more information, please read our EEO policy. Intuit encourages people with criminal record histories to apply for employment, and values diverse experiences, including prior contact with the criminal legal system. To that end, Intuit welcomes such applicants in accordance with the California Fair Chance Act, Los Angeles City Fair Chance Act Ordinance, Los Angeles County Fair Chance Act Ordinance, the San Francisco Fair Chance Act Ordinance, and other similar laws. Philadelphia applicants can review information pertaining to Philadelphia\u2019s Fair Criminal Record Screening Standards Ordinance here. Applicants for jobs in unincorporated areas of Los Angeles County can review a copy of the Los Angeles County Fair Chance Act Notice here. Intui"
+        },
+        {
+          "title_line": "Considering a career as a data scientist? Explore essential data science skills to enhance your career prospects with Intuit as your guide.",
+          "age_days": null,
+          "jd_context": "Intuit significantly scales share repurchase program; Intuit\u2019s founder and executive leadership team terminate pre-scheduled stock sales. Blog 10 Skills You Need to Succeed as a Data Scientist Considering a career as a data scientist? Explore essential data science skills to enhance your career prospects with Intuit as your guide. 61 Results found. Sign Up for Job Alerts Be the first to find out about open jobs that fit what you're looking for. Sign Up Sitemap Insight Betterworks About Us Careers Press Room \u00a9 2025 Intuit Inc. All rights reserved. Intuit is proud to be an equal opportunity and affirmative action employer. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please talk with your recruiter or send a request to TalentAcquisition@intuit.com. For more information, please read our EEO policy. Intuit encourages people with criminal record histories to apply for employment, and values diverse experiences, including prior contact with the criminal legal system. To that end, Intuit welcomes such applicants in accordance with the California Fair Chance Act, Los Angeles City Fair Chance Act Ordinance, Los Angeles County Fair Chance Act Ordinance, the San Francisco Fair Chance Act Ordinance, and other similar laws. Philadelphia applicants can review information pertaining to Philadelphia\u2019s Fair Criminal Record Screening Standards Ordinance here. Applicants for jobs in unincorporated areas of Los Angeles County can review a copy of the Los Angeles County Fair Chance Act Notice here. Intuit Cookie Policy Manage Cookies Legal"
+        }
+      ],
       "error": null
     },
     {
@@ -860,20 +883,9 @@
     {
       "company": "Tech Mahindra",
       "url": "https://careers.techmahindra.com",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
-      "matches_no_date_found": [
-        {
-          "title_line": "Skills: Power BI Data Analyst",
-          "age_days": null,
-          "jd_context": "Search by keywords IT Tech Lead - Software Engineer Skills: Power BI Data Analyst Experience: 8 - 12 Years Location: AUCKLAND IT Sr. Software Engineer Skills: Node.JS Experience: 5 - 7 Years Location: MEXICO CITY IT Sr. Software Engineer Skills: SQL,Python,Hadoop,pyspark Experience: 4 - 10 Years Location: BENGALURU IT Tech Lead"
-        },
-        {
-          "title_line": "Data Scientist",
-          "age_days": null,
-          "jd_context": "Experience: 4 - 7 Years Location: MUMBAI IT Data Scientist Skills: python for data science Experience: 7 - 10 Years Location: MUMBAI IT Project Manager Skills: python for data science Experience: 10 - 15 Years Location: HYDERABAD IT Senior Generative AI Engineer Skills: AI and Gen AI Architecture Experience: 4 - 7 Years Location: HYDERABAD IT"
-        }
-      ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
