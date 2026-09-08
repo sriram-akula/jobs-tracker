@@ -5,7 +5,12 @@ on:
     # 18:30 UTC = 00:00 IST (India). GitHub's cron scheduler can run a few
     # minutes late during high load - that's normal, not a bug.
     - cron: "30 18 * * *"
-  workflow_dispatch: {}   # lets you also trigger it manually from the Actions tab
+  workflow_dispatch:      # lets you also trigger it manually from the Actions tab
+    inputs:
+      debug_dump:
+        description: "Dump raw captured text per company as a downloadable artifact (for diagnosing missed jobs)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write   # needed so the workflow can commit the updated report back
@@ -30,7 +35,27 @@ jobs:
         run: python -m playwright install --with-deps chromium
 
       - name: Run scraper
+        env:
+          DEBUG_DUMP: ${{ github.event.inputs.debug_dump || 'false' }}
         run: python scraper.py
+
+      - name: Generate tailored CVs for fresh matches
+        run: python cv_generator.py
+
+      - name: Upload generated CVs
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-cvs
+          path: generated_cvs/
+          retention-days: 14
+
+      - name: Upload debug text dump (only if debug_dump was checked)
+        if: ${{ github.event.inputs.debug_dump == 'true' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-page-text
+          path: debug/
+          retention-days: 7
 
       - name: Commit and push updated report
         run: |
