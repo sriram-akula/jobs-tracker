@@ -81,6 +81,55 @@ That's it - after that it runs on its own every night.
    generic scraper across 115 unrelated sites is a starting point, not a
    finished, maintenance-free product.
 
+## Automatic CV generation (new)
+
+After the scraper runs, `cv_generator.py` builds a tailored, ATS-safe
+`.docx` CV for every fresh match found, scores it, and sorts it into:
+
+- `generated_cvs/ready/` - estimated ATS score >= 85
+- `generated_cvs/needs_review/` - below 85, generated anyway so you can see
+  what's missing
+
+**Download them from the run**: open the finished Actions run → scroll to
+**Artifacts** → download **`generated-cvs`**.
+
+### What "ATS score >= 85" actually means here
+
+There is no universal, verifiable "ATS score" - every real ATS platform
+(and every third-party tool like Jobscan) uses its own undisclosed
+formula. `ats_score.py` computes a transparent, reproducible proxy instead:
+
+```
+final_score = 0.60 * keyword_coverage + 0.25 * format_compliance + 0.15 * section_completeness
+```
+
+- **Keyword coverage** - % of meaningful words pulled from the job listing
+  text that also appear in the generated resume.
+- **Format compliance** - fixed checklist (no tables/images/text boxes,
+  standard fonts and headings, plain-text contact block) - should be ~100
+  every time since the generator controls this by construction.
+- **Section completeness** - are Contact/Summary/Skills/Experience/
+  Education all present.
+
+This is a best-effort estimate, not a guarantee of how any specific
+company's actual ATS will score the document.
+
+### The one rule that never bends
+
+Every CV only ever contains what's in `data/resume_master.py` - real
+experience, real projects, real skills, sourced from the resume you
+provided. "Tailoring" means selecting and reordering what's true to match
+a listing, never adding anything that isn't. If a real match can't
+honestly clear 85, it lands in `needs_review` instead of a faked score.
+
+### Known limitation worth knowing
+
+Most career-page listings only expose a title and a short surrounding
+snippet - not the full job description. The scorer works off whatever
+`jd_context` the scraper captured, which is often partial. A score here
+reflects that partial context, not necessarily what you'd get scoring
+against the complete posting.
+
 ## Extending it (optional ideas for later)
 
 - Add a Telegram/Slack webhook step in the workflow to push a message when
