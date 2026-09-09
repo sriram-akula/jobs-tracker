@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-08T21:21:29.797563+00:00",
+  "checked_at_utc": "2026-09-09T21:07:17.023784+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -18,7 +18,7 @@
         {
           "title_line": "Sr. Data Scientist \u2013 Agentic AI",
           "age_days": 0,
-          "jd_context": "posted on Posted Today SR-43641 Sr. Data Scientist \u2013 Agentic AI locations Bengaluru posted on Posted Today SR-42058 Snowflake Data Engineer locations London posted on Posted Yesterday SR-45644 Senior Data Engineer locations California"
+          "jd_context": "posted on Posted Today SR-45696 Sr. Data Scientist \u2013 Agentic AI locations Bengaluru posted on Posted Yesterday SR-42058 Snowflake Data Engineer locations London posted on Posted 2 Days Ago SR-45644 Senior Data Engineer locations California"
         }
       ],
       "matches_no_date_found": [],
@@ -682,20 +682,9 @@
     {
       "company": "Intuit",
       "url": "https://jobs.intuit.com",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
-      "matches_no_date_found": [
-        {
-          "title_line": "10 Skills You Need to Succeed as a Data Scientist",
-          "age_days": null,
-          "jd_context": "Management Reiterates Confidence in Long-Term Growth Trajectory Intuit significantly scales share repurchase program; Intuit\u2019s founder and executive leadership team terminate pre-scheduled stock sales. Blog 10 Skills You Need to Succeed as a Data Scientist Considering a career as a data scientist? Explore essential data science skills to enhance your career prospects with Intuit as your guide. 61 Results found. Sign Up for Job Alerts Be the first to find out about open jobs that fit what you're looking for. Sign Up Sitemap Insight Betterworks About Us Careers Press Room \u00a9 2025 Intuit Inc. All rights reserved. Intuit is proud to be an equal opportunity and affirmative action employer. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please talk with your recruiter or send a request to TalentAcquisition@intuit.com. For more information, please read our EEO policy. Intuit encourages people with criminal record histories to apply for employment, and values diverse experiences, including prior contact with the criminal legal system. To that end, Intuit welcomes such applicants in accordance with the California Fair Chance Act, Los Angeles City Fair Chance Act Ordinance, Los Angeles County Fair Chance Act Ordinance, the San Francisco Fair Chance Act Ordinance, and other similar laws. Philadelphia applicants can review information pertaining to Philadelphia\u2019s Fair Criminal Record Screening Standards Ordinance here. Applicants for jobs in unincorporated areas of Los Angeles County can review a copy of the Los Angeles County Fair Chance Act Notice here. Intui"
-        },
-        {
-          "title_line": "Considering a career as a data scientist? Explore essential data science skills to enhance your career prospects with Intuit as your guide.",
-          "age_days": null,
-          "jd_context": "Intuit significantly scales share repurchase program; Intuit\u2019s founder and executive leadership team terminate pre-scheduled stock sales. Blog 10 Skills You Need to Succeed as a Data Scientist Considering a career as a data scientist? Explore essential data science skills to enhance your career prospects with Intuit as your guide. 61 Results found. Sign Up for Job Alerts Be the first to find out about open jobs that fit what you're looking for. Sign Up Sitemap Insight Betterworks About Us Careers Press Room \u00a9 2025 Intuit Inc. All rights reserved. Intuit is proud to be an equal opportunity and affirmative action employer. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please talk with your recruiter or send a request to TalentAcquisition@intuit.com. For more information, please read our EEO policy. Intuit encourages people with criminal record histories to apply for employment, and values diverse experiences, including prior contact with the criminal legal system. To that end, Intuit welcomes such applicants in accordance with the California Fair Chance Act, Los Angeles City Fair Chance Act Ordinance, Los Angeles County Fair Chance Act Ordinance, the San Francisco Fair Chance Act Ordinance, and other similar laws. Philadelphia applicants can review information pertaining to Philadelphia\u2019s Fair Criminal Record Screening Standards Ordinance here. Applicants for jobs in unincorporated areas of Los Angeles County can review a copy of the Los Angeles County Fair Chance Act Notice here. Intuit Cookie Policy Manage Cookies Legal"
-        }
-      ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
