@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-09T21:07:17.023784+00:00",
+  "checked_at_utc": "2026-09-10T21:05:44.571687+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -17,8 +17,8 @@
       "matches_under_3_days": [
         {
           "title_line": "Sr. Data Scientist \u2013 Agentic AI",
-          "age_days": 0,
-          "jd_context": "posted on Posted Today SR-45696 Sr. Data Scientist \u2013 Agentic AI locations Bengaluru posted on Posted Yesterday SR-42058 Snowflake Data Engineer locations London posted on Posted 2 Days Ago SR-45644 Senior Data Engineer locations California"
+          "age_days": 1,
+          "jd_context": "posted on Posted Yesterday SR-45696 Sr. Data Scientist \u2013 Agentic AI locations Bengaluru posted on Posted 2 Days Ago SR-42058 Snowflake Data Engineer locations London posted on Posted 3 Days Ago SR-45644 Senior Data Engineer locations California"
         }
       ],
       "matches_no_date_found": [],
@@ -167,7 +167,7 @@
         {
           "title_line": "Explore an exciting career in data analytics with rich peer-to-peer learning and deliver real-world business impact across the latest technology stack.",
           "age_days": null,
-          "jd_context": "Submit \u2715 Join the best talent in the fastest-growing data & analytics company >> Explore an exciting career in data analytics with rich peer-to-peer learning and deliver real-world business impact across the latest technology stack. Join our team ARTIFICIAL INTELLIGENCE AI Strategy Agentic AI Generative AI AI Managed Services Responsible AI Advanced Analytics CLOUD & DATA Data Strategy Data Engineering Data Management Cloud Transformation Data Ops"
+          "jd_context": "Submit \u2715 Join the best talent in the fastest-growing data & analytics company >> Explore an exciting career in data analytics with rich peer-to-peer learning and deliver real-world business impact across the latest technology stack. Join our team ARTIFICIAL INTELLIGENCE AI Strategy Agentic AI Generative AI AI Managed Services Responsible AI Advanced Analytics CLOUD & DATA Data Strategy Data Engineering Data Management Cloud Transformation DataOps"
         }
       ],
       "error": null
@@ -530,7 +530,7 @@
         {
           "title_line": "Senior Data Analyst",
           "age_days": null,
-          "jd_context": "AI Solution Engineer Bengaluru, India Apply Here Senior Data Analyst Bengaluru, India Apply Here Product Hevo Pipeline Free Trial Pricing Integrations NEW Changelog Status Resources Blog Learning Hub API Docs"
+          "jd_context": "Bengaluru, India Apply Here Strategy Senior Data Analyst Bengaluru, India Apply Here AI Solution Engineer Bengaluru, India Apply Here Strategy & Ops (Founder's Office) Bengaluru, India Apply Here Product Hevo Pipeline Free Trial Pricing Integrations NEW"
         }
       ],
       "error": null
