@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-10T21:05:44.571687+00:00",
+  "checked_at_utc": "2026-09-11T21:10:08.688165+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -16,9 +16,14 @@
       "status": "ok_with_fresh_match",
       "matches_under_3_days": [
         {
+          "title_line": "Gen AI Data Scientist",
+          "age_days": 0,
+          "jd_context": "posted on Posted Today SR-44673 Gen AI Data Scientist locations 4 Locations posted on Posted Today SR-45838 Data Engineer locations 6 Locations posted on Posted Yesterday SR-43347 Lead Architect, Databricks locations Texas"
+        },
+        {
           "title_line": "Sr. Data Scientist \u2013 Agentic AI",
-          "age_days": 1,
-          "jd_context": "posted on Posted Yesterday SR-45696 Sr. Data Scientist \u2013 Agentic AI locations Bengaluru posted on Posted 2 Days Ago SR-42058 Snowflake Data Engineer locations London posted on Posted 3 Days Ago SR-45644 Senior Data Engineer locations California"
+          "age_days": 2,
+          "jd_context": "posted on Posted 2 Days Ago SR-45696 Sr. Data Scientist \u2013 Agentic AI locations Bengaluru posted on Posted 3 Days Ago SR-42058 Snowflake Data Engineer locations London posted on Posted 4 Days Ago SR-45644 1 2 3"
         }
       ],
       "matches_no_date_found": [],
@@ -69,7 +74,7 @@
         {
           "title_line": "Are you looking for more information about LatentView? Would you like to know more about the work we do? Would you like to read about the latest trends in data ",
           "age_days": null,
-          "jd_context": "CONTACT US Oops! The page you are looking for doesn\u2019t seem to exist. Are you looking for more information about LatentView? Would you like to know more about the work we do? Would you like to read about the latest trends in data analytics? Dive home (Re)Think Data Think LatentView Latent View Analytics Limited Registered Office: 5th Floor, Neville Tower, Unit 6, 7 and 8, Ramanujan IT City, Rajiv Gandhi Salai, Taramani, Chennai \u2013 600113, Tamil Nadu, India Tel: +91 044 4344 1700 Email:\u00a0investorcare@latentview.com CIN: L72300TN2006PLC058481 Industries Technology Financial Services"
+          "jd_context": "CONTACT US Oops! The page you are looking for doesn\u2019t seem to exist. Are you looking for more information about LatentView? Would you like to know more about the work we do? Would you like to read about the latest trends in data analytics? Dive home (Re)Think Data Think LatentView LatentView Analytics Corporation 2580 North First Street, Suite 200 San Jose, CA- 95131 Email: sales@latentview.com Industries Technology Financial Services CPG Industrials Retail Healthcare & Life Sciences"
         }
       ],
       "error": null
@@ -197,12 +202,17 @@
         {
           "title_line": "Consultant Data Scientist",
           "age_days": null,
-          "jd_context": "View Job DATA SCIENCE HYBRID Consultant Data Scientist Bengaluru 4-8 years Full Time CON01544 View Job DATA SCIENCE HYBRID Consultant- Data Scientist with GenAI Bengaluru 4-7 years Full Time CON01546 View Job DATA SCIENCE"
+          "jd_context": "View on SenseHQ DATA SCIENCE HYBRID Consultant Data Scientist Bengaluru 4-8 years Full Time CON01544 View Job DATA SCIENCE HYBRID Consultant- Data Scientist with GenAI Bengaluru 4-7 years Full Time CON01546 View Job DATA SCIENCE"
         },
         {
           "title_line": "Consultant- Data Scientist with GenAI",
           "age_days": null,
           "jd_context": "View Job DATA SCIENCE HYBRID Consultant- Data Scientist with GenAI Bengaluru 4-7 years Full Time CON01546 View Job DATA SCIENCE HYBRID Principal Data Scientist Gen AI Bengaluru 7-10 years Full Time PRI01545 View Job ENGINEERING"
+        },
+        {
+          "title_line": "Data Scientist \u2013 Computer Vision & Machine Learning",
+          "age_days": null,
+          "jd_context": "View Job DATA SCIENCE ON-SITE Data Scientist \u2013 Computer Vision & Machine Learning Bengaluru 3-5 years Full Time SEN01557 View Job DON'T SEE YOUR ROLE? We hire on signal, not titles. If you've built production AI that mattered, we want to talk, even if the role isn't posted yet. Send us a Note Browse All Positions OFFICES BELLEVUE (HQ) BENGALURU (HQ) HYDERABAD"
         }
       ],
       "error": null
@@ -546,10 +556,10 @@
     {
       "company": "Darwinbox",
       "url": "https://darwinbox.com/careers",
-      "status": "ok_no_matching_role_found",
+      "status": "blocked_or_failed",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": null
+      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://darwinbox.com/careers\", waiting until \"domcontentloaded\"\n"
     },
     {
       "company": "Uniphore",
