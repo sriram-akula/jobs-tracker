@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-11T21:10:08.688165+00:00",
+  "checked_at_utc": "2026-09-12T20:47:41.073551+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -17,13 +17,8 @@
       "matches_under_3_days": [
         {
           "title_line": "Gen AI Data Scientist",
-          "age_days": 0,
-          "jd_context": "posted on Posted Today SR-44673 Gen AI Data Scientist locations 4 Locations posted on Posted Today SR-45838 Data Engineer locations 6 Locations posted on Posted Yesterday SR-43347 Lead Architect, Databricks locations Texas"
-        },
-        {
-          "title_line": "Sr. Data Scientist \u2013 Agentic AI",
-          "age_days": 2,
-          "jd_context": "posted on Posted 2 Days Ago SR-45696 Sr. Data Scientist \u2013 Agentic AI locations Bengaluru posted on Posted 3 Days Ago SR-42058 Snowflake Data Engineer locations London posted on Posted 4 Days Ago SR-45644 1 2 3"
+          "age_days": 1,
+          "jd_context": "posted on Posted Yesterday SR-44673 Gen AI Data Scientist locations 4 Locations posted on Posted Yesterday SR-45838 Data Engineer locations 6 Locations posted on Posted 2 Days Ago SR-43347 Lead Architect, Databricks locations Texas"
         }
       ],
       "matches_no_date_found": [],
