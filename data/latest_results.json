@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-18T21:07:52.686007+00:00",
+  "checked_at_utc": "2026-09-19T20:57:18.714238+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -17,20 +17,15 @@
       "matches_under_3_days": [
         {
           "title_line": "Senior Data Scientist",
-          "age_days": 1,
-          "jd_context": "posted on Posted Yesterday SR-45840 Senior Data Scientist locations New York posted on Posted 2 Days Ago SR-45474 BI Analyst locations California posted on Posted 2 Days Ago SR-45855 Engineering Leader, Google COE locations California"
-        },
-        {
-          "title_line": "BI Analyst",
           "age_days": 2,
-          "jd_context": "posted on Posted 2 Days Ago SR-45474 BI Analyst locations California posted on Posted 2 Days Ago SR-45855 Engineering Leader, Google COE locations California posted on Posted 3 Days Ago SR-42734 Data Scientist_ NLP GenAI_ 3 to 5yrs locations 7 Locations"
+          "jd_context": "posted on Posted 2 Days Ago SR-45840 Senior Data Scientist locations New York posted on Posted 3 Days Ago SR-45474 BI Analyst locations California posted on Posted 3 Days Ago SR-45855 Engineering Leader, Google COE locations California"
         }
       ],
       "matches_no_date_found": [
         {
           "title_line": "GenAI Data Scientist",
           "age_days": null,
-          "jd_context": "posted on Posted 30+ Days Ago SR-42743 GenAI Data Scientist locations 4 Locations posted on Posted Yesterday SR-45840 Senior Data Scientist locations New York posted on Posted 2 Days Ago SR-45474 BI Analyst locations California"
+          "jd_context": "posted on Posted 30+ Days Ago SR-42743 GenAI Data Scientist locations 4 Locations posted on Posted 2 Days Ago SR-45840 Senior Data Scientist locations New York posted on Posted 3 Days Ago SR-45474 BI Analyst locations California"
         }
       ],
       "error": null
