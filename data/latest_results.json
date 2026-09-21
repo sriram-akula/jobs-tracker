@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-20T21:01:58.434240+00:00",
+  "checked_at_utc": "2026-09-21T22:09:45.512023+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -13,15 +13,15 @@
     {
       "company": "Fractal Analytics",
       "url": "https://fractal.ai/careers/",
-      "status": "ok_role_found_no_date_or_stale",
-      "matches_under_3_days": [],
-      "matches_no_date_found": [
+      "status": "ok_with_fresh_match",
+      "matches_under_3_days": [
         {
           "title_line": "GenAI Data Scientist",
-          "age_days": null,
-          "jd_context": "posted on Posted 30+ Days Ago SR-42743 GenAI Data Scientist locations 4 Locations posted on Posted 3 Days Ago SR-45840 Senior Data Scientist locations New York posted on Posted 4 Days Ago SR-45474 BI Analyst locations California"
+          "age_days": 0,
+          "jd_context": "posted on Posted Today SR-42734 GenAI Data Scientist locations 4 Locations posted on Posted 4 Days Ago SR-45840 Senior Data Scientist locations New York posted on Posted 5 Days Ago SR-45474 BI Analyst locations California"
         }
       ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
@@ -530,7 +530,7 @@
         {
           "title_line": "Senior Data Analyst",
           "age_days": null,
-          "jd_context": "Bengaluru, India Apply Here Strategy Senior Data Analyst Bengaluru, India Apply Here AI Solution Engineer Bengaluru, India Apply Here Strategy & Ops (Founder's Office) Bengaluru, India Apply Here Product Hevo Pipeline Free Trial Pricing Integrations NEW"
+          "jd_context": "Strategy & Ops (Founder's Office) Bengaluru, India Apply Here Senior Data Analyst Bengaluru, India Apply Here Product Hevo Pipeline Free Trial Pricing Integrations NEW Changelog Status Resources Blog Learning Hub API Docs"
         }
       ],
       "error": null
