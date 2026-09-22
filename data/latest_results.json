@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-21T22:09:45.512023+00:00",
+  "checked_at_utc": "2026-09-22T21:37:55.206262+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -17,8 +17,8 @@
       "matches_under_3_days": [
         {
           "title_line": "GenAI Data Scientist",
-          "age_days": 0,
-          "jd_context": "posted on Posted Today SR-42734 GenAI Data Scientist locations 4 Locations posted on Posted 4 Days Ago SR-45840 Senior Data Scientist locations New York posted on Posted 5 Days Ago SR-45474 BI Analyst locations California"
+          "age_days": 1,
+          "jd_context": "posted on Posted Yesterday SR-42734 GenAI Data Scientist locations 4 Locations posted on Posted 5 Days Ago SR-45840 Senior Data Scientist locations New York posted on Posted 6 Days Ago SR-45474 BI Analyst locations California"
         }
       ],
       "matches_no_date_found": [],
@@ -197,7 +197,7 @@
         {
           "title_line": "Consultant Data Scientist",
           "age_days": null,
-          "jd_context": "View Job DATA SCIENCE HYBRID Consultant Data Scientist Bengaluru 4-8 years Full Time CON01544 View Job DATA SCIENCE HYBRID Consultant- Data Scientist with GenAI Bengaluru 4-7 years Full Time CON01546 View Job DATA SCIENCE"
+          "jd_context": "View on SenseHQ DATA SCIENCE HYBRID Consultant Data Scientist Bengaluru 4-8 years Full Time CON01544 View Job DATA SCIENCE HYBRID Consultant- Data Scientist with GenAI Bengaluru 4-7 years Full Time CON01546 View Job DATA SCIENCE"
         },
         {
           "title_line": "Consultant- Data Scientist with GenAI",
@@ -320,10 +320,10 @@
     {
       "company": "Paytm",
       "url": "https://paytm.com/careers",
-      "status": "ok_no_matching_role_found",
+      "status": "blocked_or_failed",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": null
+      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://paytm.com/careers\", waiting until \"domcontentloaded\"\n"
     },
     {
       "company": "Cashfree Payments",
@@ -872,9 +872,15 @@
     {
       "company": "Tech Mahindra",
       "url": "https://careers.techmahindra.com",
-      "status": "ok_no_matching_role_found",
+      "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Senior Data Scientist",
+          "age_days": null,
+          "jd_context": "Experience: 10 - 15 Years Location: LANSING IT Senior Data Scientist Skills: Health Analytics Experience: 7 - 10 Years Location: ROCHESTER IT Healthcare SME Skills: Health Analytics Experience: 3 - 15 Years Location: ROCHESTER IT Dynatrace Lead Administrator Skills: Dynatrace Experience: 7 - 10 Years Location: MUMBAI IT"
+        }
+      ],
       "error": null
     },
     {
