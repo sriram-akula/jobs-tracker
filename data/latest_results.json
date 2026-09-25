@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-24T21:44:41.590026+00:00",
+  "checked_at_utc": "2026-09-25T21:49:45.466946+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -228,15 +228,9 @@
     {
       "company": "Axtria",
       "url": "https://www.axtria.com/careers",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
-      "matches_no_date_found": [
-        {
-          "title_line": "Clinical Data Scientist",
-          "age_days": null,
-          "jd_context": "Manager \u2013 Commercial Excellence NCR, Pune, Bangalore, Hyderabad View Job Clinical Data Scientist NCR, Pune, Bangalore, Hyderabad View Job Principal \u2013 Life Sciences NCR View Job Director \u2013 Commercial Excellence Hyderabad, NCR View Job Project Leader- Patient-Commercial Analytics Gurgaon/Noida, India View Job Senior Associate - ML Ops Noida, India View Job"
-        }
-      ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
@@ -524,7 +518,7 @@
         {
           "title_line": "Senior Data Analyst",
           "age_days": null,
-          "jd_context": "Strategy & Ops (Founder's Office) Bengaluru, India Apply Here Senior Data Analyst Bengaluru, India Apply Here Product Hevo Pipeline Free Trial Pricing Integrations NEW Changelog Status Resources Blog Learning Hub API Docs"
+          "jd_context": "Strategy & Ops (Founder's Office) Bengaluru, India Apply Here Senior Data Analyst Bengaluru, India Apply Here AI Solution Engineer Bengaluru, India Apply Here Product Hevo Pipeline Free Trial Pricing Integrations NEW Changelog Status Resources"
         }
       ],
       "error": null
@@ -540,10 +534,10 @@
     {
       "company": "Darwinbox",
       "url": "https://darwinbox.com/careers",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://darwinbox.com/careers\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "Uniphore",
