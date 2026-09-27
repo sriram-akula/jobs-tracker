@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-26T21:26:04.049376+00:00",
+  "checked_at_utc": "2026-09-27T21:35:44.073150+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -300,10 +300,10 @@
     {
       "company": "BharatPe",
       "url": "https://bharatpe.com/careers/",
-      "status": "ok_no_matching_role_found",
+      "status": "blocked_or_failed",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": null
+      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://bharatpe.com/careers/\", waiting until \"domcontentloaded\"\n"
     },
     {
       "company": "Paytm",
