@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-27T21:35:44.073150+00:00",
+  "checked_at_utc": "2026-09-28T23:30:35.633317+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -13,8 +13,14 @@
     {
       "company": "Fractal Analytics",
       "url": "https://fractal.ai/careers/",
-      "status": "ok_role_found_no_date_or_stale",
-      "matches_under_3_days": [],
+      "status": "ok_with_fresh_match",
+      "matches_under_3_days": [
+        {
+          "title_line": "Sr. Data Scientist \u2013 Agentic AI",
+          "age_days": 0,
+          "jd_context": "posted on Posted Today SR-45659 Sr. Data Scientist \u2013 Agentic AI locations Bengaluru posted on Posted Today SR-42058 SME - Data Science & AI expert locations Gurgaon posted on Posted Today SR-46203 Financial Reporting Manager locations Mumbai"
+        }
+      ],
       "matches_no_date_found": [],
       "error": null
     },
@@ -300,18 +306,18 @@
     {
       "company": "BharatPe",
       "url": "https://bharatpe.com/careers/",
-      "status": "blocked_or_failed",
-      "matches_under_3_days": [],
-      "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://bharatpe.com/careers/\", waiting until \"domcontentloaded\"\n"
-    },
-    {
-      "company": "Paytm",
-      "url": "https://paytm.com/careers",
       "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
       "error": null
+    },
+    {
+      "company": "Paytm",
+      "url": "https://paytm.com/careers",
+      "status": "blocked_or_failed",
+      "matches_under_3_days": [],
+      "matches_no_date_found": [],
+      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://paytm.com/careers\", waiting until \"domcontentloaded\"\n"
     },
     {
       "company": "Cashfree Payments",
