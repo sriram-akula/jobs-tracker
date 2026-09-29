@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-09-28T23:30:35.633317+00:00",
+  "checked_at_utc": "2026-09-29T22:33:46.471190+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -17,8 +17,8 @@
       "matches_under_3_days": [
         {
           "title_line": "Sr. Data Scientist \u2013 Agentic AI",
-          "age_days": 0,
-          "jd_context": "posted on Posted Today SR-45659 Sr. Data Scientist \u2013 Agentic AI locations Bengaluru posted on Posted Today SR-42058 SME - Data Science & AI expert locations Gurgaon posted on Posted Today SR-46203 Financial Reporting Manager locations Mumbai"
+          "age_days": 1,
+          "jd_context": "posted on Posted Yesterday SR-45659 Sr. Data Scientist \u2013 Agentic AI locations Bengaluru posted on Posted Yesterday SR-42058 Financial Reporting Manager locations Mumbai posted on Posted 2 Days Ago SR-44845 Lead\u00a0Azure\u00a0Data\u00a0Architect\u00a0\u2013\u00a0Insurance Domain locations London"
         }
       ],
       "matches_no_date_found": [],
@@ -314,10 +314,10 @@
     {
       "company": "Paytm",
       "url": "https://paytm.com/careers",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://paytm.com/careers\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "Cashfree Payments",
