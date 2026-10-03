@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-02T22:30:30.051253+00:00",
+  "checked_at_utc": "2026-10-03T21:41:09.985869+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -13,14 +13,8 @@
     {
       "company": "Fractal Analytics",
       "url": "https://fractal.ai/careers/",
-      "status": "ok_with_fresh_match",
-      "matches_under_3_days": [
-        {
-          "title_line": "Sr. Data Scientist \u2013 Agentic AI",
-          "age_days": 2,
-          "jd_context": "posted on Posted 2 Days Ago SR-46288 Sr. Data Scientist \u2013 Agentic AI locations Bengaluru posted on Posted 4 Days Ago SR-42058 Financial Reporting Manager locations Mumbai posted on Posted 5 Days Ago SR-44845 Lead\u00a0Azure\u00a0Data\u00a0Architect\u00a0\u2013\u00a0Insurance Domain locations London"
-        }
-      ],
+      "status": "ok_role_found_no_date_or_stale",
+      "matches_under_3_days": [],
       "matches_no_date_found": [],
       "error": null
     },
@@ -314,10 +308,10 @@
     {
       "company": "Paytm",
       "url": "https://paytm.com/careers",
-      "status": "ok_no_matching_role_found",
+      "status": "blocked_or_failed",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": null
+      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://paytm.com/careers\", waiting until \"domcontentloaded\"\n"
     },
     {
       "company": "Cashfree Payments",
@@ -336,10 +330,10 @@
     {
       "company": "Uni Cards",
       "url": "https://uni.cards/careers",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://uni.cards/careers\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "KreditBee",
