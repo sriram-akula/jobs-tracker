@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-03T21:41:09.985869+00:00",
+  "checked_at_utc": "2026-10-04T21:49:04.353633+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -308,10 +308,10 @@
     {
       "company": "Paytm",
       "url": "https://paytm.com/careers",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://paytm.com/careers\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "Cashfree Payments",
