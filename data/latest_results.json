@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-04T21:49:04.353633+00:00",
+  "checked_at_utc": "2026-10-06T00:17:42.329628+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -860,12 +860,7 @@
         {
           "title_line": "Lead Data Scientist",
           "age_days": null,
-          "jd_context": "Experience: 7 - 10 Years Location: SANTA CLARA IT Lead Data Scientist Skills: Google Cloud Professional Cloud Architect Experience: 8 - 10 Years Location: DEARBORN IT Lead Data Scientist Skills: Data engineering Experience: 8 - 10 Years Location: DEARBORN IT Verification Engineer Skills: VLSI Design Verification Debug Experience: 5 - 7 Years Location: SANTA CLARA IT"
-        },
-        {
-          "title_line": "Lead Data Scientist",
-          "age_days": null,
-          "jd_context": "Experience: 8 - 10 Years Location: DEARBORN IT Lead Data Scientist Skills: Data engineering Experience: 8 - 10 Years Location: DEARBORN IT Verification Engineer Skills: VLSI Design Verification Debug Experience: 5 - 7 Years Location: SANTA CLARA IT DFT Principal engineer Skills: ATPG Pattern retargeting and validation Experience: 5 - 7 Years Location: SANTA CLARA IT"
+          "jd_context": "Experience: 5 - 9 Years Location: DALLAS IT Lead Data Scientist Skills: python for data science Experience: 8 - 10 Years Location: JUNO BEACH Post Your Resume / Registration (*) Asterisk denotes mandatory fields Present Country Of Residence Afghanistan Albania Algeria Angola Antigua and Barbuda Argentina Armenia Aruba"
         }
       ],
       "error": null
