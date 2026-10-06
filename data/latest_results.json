@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-06T00:17:42.329628+00:00",
+  "checked_at_utc": "2026-10-06T22:49:15.551326+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -15,7 +15,13 @@
       "url": "https://fractal.ai/careers/",
       "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Lead Data Scientist",
+          "age_days": null,
+          "jd_context": "posted on Posted 30+ Days Ago SR-42743 Lead Data Scientist locations 5 Locations posted on Posted Today SR-46528 Principal Data Scientist locations 5 Locations posted on Posted Today SR-46508 AI Governance Arcitect locations New Jersey"
+        }
+      ],
       "error": null
     },
     {
@@ -370,9 +376,15 @@
     {
       "company": "Swiggy",
       "url": "https://careers.swiggy.com",
-      "status": "ok_no_matching_role_found",
+      "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "a designer shaping intuitive experiences, a data scientist",
+          "age_days": null,
+          "jd_context": "Swiggy is built by thinkers, dreamers, and ambitious doers, who move fast, stay curious, and put their customers at the heart of everything. Be Our Next Team Player. Whether you're an engineer building large scale systems, a designer shaping intuitive experiences, a data scientist finding insights from everyday life or anyone who is obsessed with customers, this is where your career will take off. Early Careers Where you start your career makes all the difference. At Swiggy, early careers mean real ownership and people who back you from day one. We want you to stretch, learn, and grow into the leader you are meant to become here. Programmes that will help you grow Learn more Tech Careers Here, the sharpest minds in engineering and product build everything from scratch, from the system that knows you're hungry to the one that gets your food to your door. If you want to build something that matters, come build it with us. Learn more Non-Tech Careers We're changing the way India eats, shops for groceries, and experiences convenience delivered right to its doorstep. Across business, operations, and growth, we're building for a new India and the people who live here, come build it with us. Learn more Drop your r\u00e9sum\u00e9 here to be considered for future roles. Submit"
+        }
+      ],
       "error": null
     },
     {
@@ -450,9 +462,15 @@
     {
       "company": "Swiggy Instamart",
       "url": "https://careers.swiggy.com",
-      "status": "ok_no_matching_role_found",
+      "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "a designer shaping intuitive experiences, a data scientist",
+          "age_days": null,
+          "jd_context": "Swiggy is built by thinkers, dreamers, and ambitious doers, who move fast, stay curious, and put their customers at the heart of everything. Be Our Next Team Player. Whether you're an engineer building large scale systems, a designer shaping intuitive experiences, a data scientist finding insights from everyday life or anyone who is obsessed with customers, this is where your career will take off. Early Careers Where you start your career makes all the difference. At Swiggy, early careers mean real ownership and people who back you from day one. We want you to stretch, learn, and grow into the leader you are meant to become here. Programmes that will help you grow Learn more Tech Careers Here, the sharpest minds in engineering and product build everything from scratch, from the system that knows you're hungry to the one that gets your food to your door. If you want to build something that matters, come build it with us. Learn more Non-Tech Careers We're changing the way India eats, shops for groceries, and experiences convenience delivered right to its doorstep. Across business, operations, and growth, we're building for a new India and the people who live here, come build it with us. Learn more Drop your r\u00e9sum\u00e9 here to be considered for future roles. Submit"
+        }
+      ],
       "error": null
     },
     {
@@ -854,15 +872,9 @@
     {
       "company": "Tech Mahindra",
       "url": "https://careers.techmahindra.com",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
-      "matches_no_date_found": [
-        {
-          "title_line": "Lead Data Scientist",
-          "age_days": null,
-          "jd_context": "Experience: 5 - 9 Years Location: DALLAS IT Lead Data Scientist Skills: python for data science Experience: 8 - 10 Years Location: JUNO BEACH Post Your Resume / Registration (*) Asterisk denotes mandatory fields Present Country Of Residence Afghanistan Albania Algeria Angola Antigua and Barbuda Argentina Armenia Aruba"
-        }
-      ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
