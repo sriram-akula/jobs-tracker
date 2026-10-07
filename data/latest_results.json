@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-06T22:49:15.551326+00:00",
+  "checked_at_utc": "2026-10-07T23:19:29.556770+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -13,15 +13,15 @@
     {
       "company": "Fractal Analytics",
       "url": "https://fractal.ai/careers/",
-      "status": "ok_role_found_no_date_or_stale",
-      "matches_under_3_days": [],
-      "matches_no_date_found": [
+      "status": "ok_with_fresh_match",
+      "matches_under_3_days": [
         {
           "title_line": "Lead Data Scientist",
-          "age_days": null,
-          "jd_context": "posted on Posted 30+ Days Ago SR-42743 Lead Data Scientist locations 5 Locations posted on Posted Today SR-46528 Principal Data Scientist locations 5 Locations posted on Posted Today SR-46508 AI Governance Arcitect locations New Jersey"
+          "age_days": 0,
+          "jd_context": "posted on Posted Today SR-46499 Lead Data Scientist locations 5 Locations posted on Posted Yesterday SR-46528 Principal Data Scientist locations 5 Locations posted on Posted Yesterday SR-46508 AI Governance Arcitect locations New Jersey"
         }
       ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
