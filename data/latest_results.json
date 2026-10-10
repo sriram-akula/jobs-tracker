@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-09T22:52:28.426024+00:00",
+  "checked_at_utc": "2026-10-10T21:59:23.721743+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -13,14 +13,8 @@
     {
       "company": "Fractal Analytics",
       "url": "https://fractal.ai/careers/",
-      "status": "ok_with_fresh_match",
-      "matches_under_3_days": [
-        {
-          "title_line": "Lead Data Scientist",
-          "age_days": 2,
-          "jd_context": "posted on Posted 2 Days Ago SR-46499 Lead Data Scientist locations 5 Locations posted on Posted 3 Days Ago SR-46528 Principal Data Scientist locations 5 Locations posted on Posted 3 Days Ago SR-46508 AI Governance Arcitect locations New Jersey"
-        }
-      ],
+      "status": "ok_role_found_no_date_or_stale",
+      "matches_under_3_days": [],
       "matches_no_date_found": [],
       "error": null
     },
@@ -314,10 +308,10 @@
     {
       "company": "Paytm",
       "url": "https://paytm.com/careers",
-      "status": "ok_no_matching_role_found",
+      "status": "blocked_or_failed",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": null
+      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://paytm.com/careers\", waiting until \"domcontentloaded\"\n"
     },
     {
       "company": "Cashfree Payments",
@@ -878,7 +872,7 @@
         {
           "title_line": "Lead Data Analyst",
           "age_days": null,
-          "jd_context": "Experience: 5 - 15 Years Location: ALPHARETTA IT Lead Data Analyst Skills: Microsoft PowerBI Experience: 5 - 7 Years Location: FRANKLIN IT Lead Cyber Security Skills: CyberArk Experience: 7 - 10 Years Location: PUNE IT Manager - Design Skills: Solution Architecture Experience: 13 - 16 Years Location: PUNE IT"
+          "jd_context": "Experience: 5 - 15 Years Location: ALPHARETTA IT Lead Data Analyst Skills: Microsoft PowerBI Experience: 5 - 7 Years Location: FRANKLIN IT Lead Cyber Security Skills: CyberArk Experience: 7 - 10 Years Location: PUNE Post Your Resume / Registration (*) Asterisk denotes mandatory fields Present Country Of Residence Afghanistan Albania Algeria"
         }
       ],
       "error": null
