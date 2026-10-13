@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-11T22:17:31.723226+00:00",
+  "checked_at_utc": "2026-10-13T00:59:20.228607+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -15,7 +15,13 @@
       "url": "https://fractal.ai/careers/",
       "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Data scientist (Census Automation)",
+          "age_days": null,
+          "jd_context": "posted on Posted 30+ Days Ago SR-42743 Data scientist (Census Automation) locations New York posted on Posted Today SR-46709 Senior Data Engineer locations London posted on Posted Today SR-46728 AI Engineer locations New Jersey"
+        }
+      ],
       "error": null
     },
     {
@@ -492,7 +498,7 @@
         {
           "title_line": "Data Analytics",
           "age_days": null,
-          "jd_context": "App Security Artificial Intelligence Communication Data Analytics Database Developer Productivity DevOps E-Commerce eSignature Financial Services Payments Travel Resources Postman Docs Academy Community Intergalactic Videos"
+          "jd_context": "App Security Artificial Intelligence Communication Data Analytics Database Developer Productivity DevOps E-Commerce eSignature Financial Services Payments Travel Resources Postman Docs Academy LiftOff Discord Intergalactic"
         }
       ],
       "error": null
@@ -866,15 +872,9 @@
     {
       "company": "Tech Mahindra",
       "url": "https://careers.techmahindra.com",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
-      "matches_no_date_found": [
-        {
-          "title_line": "Lead Data Analyst",
-          "age_days": null,
-          "jd_context": "Experience: 5 - 15 Years Location: ALPHARETTA IT Lead Data Analyst Skills: Microsoft PowerBI Experience: 5 - 7 Years Location: FRANKLIN IT Lead Cyber Security Skills: CyberArk Experience: 7 - 10 Years Location: PUNE Post Your Resume / Registration (*) Asterisk denotes mandatory fields Present Country Of Residence Afghanistan Albania Algeria"
-        }
-      ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
