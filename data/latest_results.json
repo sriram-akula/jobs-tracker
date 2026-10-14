@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-13T23:04:43.863063+00:00",
+  "checked_at_utc": "2026-10-14T21:57:04.025531+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -17,8 +17,8 @@
       "matches_under_3_days": [
         {
           "title_line": "Data scientist (Census Automation)",
-          "age_days": 0,
-          "jd_context": "posted on Posted Today SR-46712 Data scientist (Census Automation) locations New York posted on Posted Yesterday SR-46709 Senior Data Engineer locations London posted on Posted Yesterday SR-46728 AI Engineer locations New Jersey"
+          "age_days": 1,
+          "jd_context": "posted on Posted Yesterday SR-46712 Data scientist (Census Automation) locations New York posted on Posted 2 Days Ago SR-46709 Senior Data Engineer locations London posted on Posted 2 Days Ago SR-46728 AI Engineer locations New Jersey"
         }
       ],
       "matches_no_date_found": [],
@@ -41,9 +41,15 @@
     {
       "company": "Factspan Analytics",
       "url": "https://www.factspan.com/careers/",
-      "status": "ok_no_matching_role_found",
+      "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Customer Data Analytics",
+          "age_days": null,
+          "jd_context": "Data Governance Functional Expertise Marketing Analytics Customer Data Analytics Product Analytics Sales Analytics Industries Retail & CPG Life Science & Healthcare Hospitality Logistics Technology & Media Our Company About Us Careers Contact Us \u00a9 2026 Factspan. All right reserved. Privacy Policy Scroll to Top"
+        }
+      ],
       "error": null
     },
     {
@@ -308,10 +314,10 @@
     {
       "company": "Paytm",
       "url": "https://paytm.com/careers",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://paytm.com/careers\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "Cashfree Payments",
