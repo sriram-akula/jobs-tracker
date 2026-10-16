@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-15T21:40:33.323035+00:00",
+  "checked_at_utc": "2026-10-16T21:33:38.136517+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -16,9 +16,9 @@
       "status": "ok_with_fresh_match",
       "matches_under_3_days": [
         {
-          "title_line": "Data scientist (Census Automation)",
-          "age_days": 2,
-          "jd_context": "posted on Posted 2 Days Ago SR-46712 Data scientist (Census Automation) locations New York posted on Posted 3 Days Ago SR-46709 Senior Data Engineer locations London posted on Posted 3 Days Ago SR-46728 AI Engineer locations New Jersey"
+          "title_line": "Senior Data Scientist",
+          "age_days": 0,
+          "jd_context": "posted on Posted Today SR-46361 Senior Data Scientist locations 2 Locations posted on Posted Today SR-46889 Senior Consultant, Pharma (Business Translator) locations New York posted on Posted Today SR-46513 Senior Program Manager- Technical locations Bengaluru"
         }
       ],
       "matches_no_date_found": [],
@@ -314,10 +314,10 @@
     {
       "company": "Paytm",
       "url": "https://paytm.com/careers",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://paytm.com/careers\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "Cashfree Payments",
