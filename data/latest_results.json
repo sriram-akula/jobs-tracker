@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-16T21:33:38.136517+00:00",
+  "checked_at_utc": "2026-10-17T20:52:35.904437+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -17,8 +17,8 @@
       "matches_under_3_days": [
         {
           "title_line": "Senior Data Scientist",
-          "age_days": 0,
-          "jd_context": "posted on Posted Today SR-46361 Senior Data Scientist locations 2 Locations posted on Posted Today SR-46889 Senior Consultant, Pharma (Business Translator) locations New York posted on Posted Today SR-46513 Senior Program Manager- Technical locations Bengaluru"
+          "age_days": 1,
+          "jd_context": "posted on Posted Yesterday SR-46361 Senior Data Scientist locations 2 Locations posted on Posted Yesterday SR-46889 Senior Consultant, Pharma (Business Translator) locations New York posted on Posted Yesterday SR-46513 Senior Program Manager- Technical locations Bengaluru"
         }
       ],
       "matches_no_date_found": [],
@@ -314,10 +314,10 @@
     {
       "company": "Paytm",
       "url": "https://paytm.com/careers",
-      "status": "ok_no_matching_role_found",
+      "status": "blocked_or_failed",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": null
+      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://paytm.com/careers\", waiting until \"domcontentloaded\"\n"
     },
     {
       "company": "Cashfree Payments",
