@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-17T20:52:35.904437+00:00",
+  "checked_at_utc": "2026-10-18T21:01:48.729280+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -17,8 +17,8 @@
       "matches_under_3_days": [
         {
           "title_line": "Senior Data Scientist",
-          "age_days": 1,
-          "jd_context": "posted on Posted Yesterday SR-46361 Senior Data Scientist locations 2 Locations posted on Posted Yesterday SR-46889 Senior Consultant, Pharma (Business Translator) locations New York posted on Posted Yesterday SR-46513 Senior Program Manager- Technical locations Bengaluru"
+          "age_days": 2,
+          "jd_context": "posted on Posted 2 Days Ago SR-46361 Senior Data Scientist locations 2 Locations posted on Posted 2 Days Ago SR-46889 Senior Consultant, Pharma (Business Translator) locations New York posted on Posted 2 Days Ago SR-46513 Senior Program Manager- Technical locations Bengaluru"
         }
       ],
       "matches_no_date_found": [],
@@ -195,14 +195,9 @@
       "matches_under_3_days": [],
       "matches_no_date_found": [
         {
-          "title_line": "Consultant Data Scientist",
-          "age_days": null,
-          "jd_context": "View on SenseHQ DATA SCIENCE HYBRID Consultant Data Scientist Bengaluru 4-8 years Full Time CON01544 View Job DATA SCIENCE HYBRID Consultant- Data Scientist with GenAI Bengaluru 4-7 years Full Time CON01546 View Job DATA SCIENCE"
-        },
-        {
           "title_line": "Consultant- Data Scientist with GenAI",
           "age_days": null,
-          "jd_context": "View Job DATA SCIENCE HYBRID Consultant- Data Scientist with GenAI Bengaluru 4-7 years Full Time CON01546 View Job DATA SCIENCE HYBRID Principal Data Scientist Gen AI Bengaluru 7-10 years Full Time PRI01545 View Job ENGINEERING"
+          "jd_context": "View on SenseHQ DATA SCIENCE HYBRID Consultant- Data Scientist with GenAI Bengaluru 4-7 years Full Time CON01546 View Job DATA SCIENCE HYBRID Consultant - Machine Learning Engineer Bengaluru,Gurugram,remote 6-9 years Full Time CON01562 View Job DATA SCIENCE"
         }
       ],
       "error": null
@@ -322,16 +317,10 @@
     {
       "company": "Cashfree Payments",
       "url": "https://www.cashfree.com/careers/",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "blocked_or_failed",
       "matches_under_3_days": [],
-      "matches_no_date_found": [
-        {
-          "title_line": "Data Scientist-3",
-          "age_days": null,
-          "jd_context": "Full time \u2022 On-Site Apply Now Engineering Data Scientist-3 Bellandur, Karnataka, India Full time \u2022 On-Site Apply Now Engineering Principal Security Engineer Bellandur, Karnataka, India Full time \u2022 On-Site Apply Now Engineering SOC Engineer 3 Bellandur, Karnataka, India Full time \u2022 On-Site Apply Now Risk & Compliance"
-        }
-      ],
-      "error": null
+      "matches_no_date_found": [],
+      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.cashfree.com/careers/\", waiting until \"domcontentloaded\"\n"
     },
     {
       "company": "Uni Cards",
