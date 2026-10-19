@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-18T21:01:48.729280+00:00",
+  "checked_at_utc": "2026-10-19T22:37:21.739357+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -13,14 +13,8 @@
     {
       "company": "Fractal Analytics",
       "url": "https://fractal.ai/careers/",
-      "status": "ok_with_fresh_match",
-      "matches_under_3_days": [
-        {
-          "title_line": "Senior Data Scientist",
-          "age_days": 2,
-          "jd_context": "posted on Posted 2 Days Ago SR-46361 Senior Data Scientist locations 2 Locations posted on Posted 2 Days Ago SR-46889 Senior Consultant, Pharma (Business Translator) locations New York posted on Posted 2 Days Ago SR-46513 Senior Program Manager- Technical locations Bengaluru"
-        }
-      ],
+      "status": "ok_role_found_no_date_or_stale",
+      "matches_under_3_days": [],
       "matches_no_date_found": [],
       "error": null
     },
@@ -317,10 +311,16 @@
     {
       "company": "Cashfree Payments",
       "url": "https://www.cashfree.com/careers/",
-      "status": "blocked_or_failed",
+      "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.cashfree.com/careers/\", waiting until \"domcontentloaded\"\n"
+      "matches_no_date_found": [
+        {
+          "title_line": "Data Scientist-3",
+          "age_days": null,
+          "jd_context": "Full time \u2022 On-Site Apply Now Engineering Data Scientist-3 Bellandur, Karnataka, India Full time \u2022 On-Site Apply Now Engineering Principal Security Engineer Bellandur, Karnataka, India Full time \u2022 On-Site Apply Now Engineering SOC Engineer 3 Bellandur, Karnataka, India Full time \u2022 On-Site Apply Now Risk & Compliance"
+        }
+      ],
+      "error": null
     },
     {
       "company": "Uni Cards",
