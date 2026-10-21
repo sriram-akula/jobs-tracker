@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-20T21:51:57.946370+00:00",
+  "checked_at_utc": "2026-10-21T21:58:11.143744+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -333,10 +333,10 @@
     {
       "company": "KreditBee",
       "url": "https://www.kreditbee.in/careers",
-      "status": "ok_no_matching_role_found",
+      "status": "blocked_or_failed",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": null
+      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.kreditbee.in/careers\", waiting until \"domcontentloaded\"\n"
     },
     {
       "company": "Perfios",
@@ -751,10 +751,10 @@
     {
       "company": "Micron Technology",
       "url": "https://www.micron.com/careers",
-      "status": "ok_no_matching_role_found",
+      "status": "blocked_or_failed",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": null
+      "error": "Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.micron.com/careers\nCall log:\nnavigating to \"https://www.micron.com/careers\", waiting until \"domcontentloaded\"\n"
     },
     {
       "company": "Bank of America (GCC)",
