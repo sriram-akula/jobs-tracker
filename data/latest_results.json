@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-23T21:39:08.254580+00:00",
+  "checked_at_utc": "2026-10-24T21:07:19.891828+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -333,10 +333,10 @@
     {
       "company": "KreditBee",
       "url": "https://www.kreditbee.in/careers",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.kreditbee.in/careers\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "Perfios",
@@ -357,10 +357,10 @@
     {
       "company": "Meesho",
       "url": "https://careers.meesho.com",
-      "status": "ok_no_matching_role_found",
+      "status": "blocked_or_failed",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": null
+      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://careers.meesho.com/\", waiting until \"domcontentloaded\"\n"
     },
     {
       "company": "Swiggy",
@@ -671,20 +671,9 @@
     {
       "company": "Intuit",
       "url": "https://jobs.intuit.com",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
-      "matches_no_date_found": [
-        {
-          "title_line": "10 Skills You Need to Succeed as a Data Scientist",
-          "age_days": null,
-          "jd_context": "How AI Is Transforming Financial Technology (Fintech) AI is transforming fintech beyond traditional automation with intelligent systems for personalized experiences, real-time fraud detection, and efficiency. Blog 10 Skills You Need to Succeed as a Data Scientist Considering a career as a data scientist? Explore essential data science skills to enhance your career prospects with Intuit as your guide. Blog How to Learn AI: A Beginner's Guide to Artificial Intelligence at Intuit Explore how Intuit is leading the way in AI-powered financial technology, empowering its technologists to innovate, the impact of AI on workflows, and tips for staying consistent in your AI learning journey. 66 Results found. Sign Up for Job Alerts Be the first to find out about open jobs that fit what you're looking for. Sign Up Sitemap Insight Betterworks About Us Careers Press Room"
-        },
-        {
-          "title_line": "Considering a career as a data scientist? Explore essential data science skills to enhance your career prospects with Intuit as your guide.",
-          "age_days": null,
-          "jd_context": "AI is transforming fintech beyond traditional automation with intelligent systems for personalized experiences, real-time fraud detection, and efficiency. Blog 10 Skills You Need to Succeed as a Data Scientist Considering a career as a data scientist? Explore essential data science skills to enhance your career prospects with Intuit as your guide. Blog How to Learn AI: A Beginner's Guide to Artificial Intelligence at Intuit Explore how Intuit is leading the way in AI-powered financial technology, empowering its technologists to innovate, the impact of AI on workflows, and tips for staying consistent in your AI learning journey. 66 Results found. Sign Up for Job Alerts Be the first to find out about open jobs that fit what you're looking for. Sign Up Sitemap Insight Betterworks About Us Careers Press Room \u00a9 2025 Intuit Inc. All rights reserved."
-        }
-      ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
@@ -872,15 +861,9 @@
     {
       "company": "Tech Mahindra",
       "url": "https://careers.techmahindra.com",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
-      "matches_no_date_found": [
-        {
-          "title_line": "Skills: Power BI Data Analyst",
-          "age_days": null,
-          "jd_context": "Location: PUNE IT Data Engineer + GEN AI + Python Skills: Power BI Data Analyst Experience: 4 - 9 Years Location: HYDERABAD Post Your Resume / Registration (*) Asterisk denotes mandatory fields Present Country Of Residence Afghanistan Albania Algeria Angola Antigua and Barbuda Argentina Armenia Aruba Australia"
-        }
-      ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
