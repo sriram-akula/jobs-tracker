@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-24T21:07:19.891828+00:00",
+  "checked_at_utc": "2026-10-25T21:06:27.723780+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -135,36 +135,10 @@
     {
       "company": "Sigmoid Analytics",
       "url": "https://www.sigmoid.com/careers/",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "blocked_or_failed",
       "matches_under_3_days": [],
-      "matches_no_date_found": [
-        {
-          "title_line": "Travel the upward curve towards a great data analytics career",
-          "age_days": null,
-          "jd_context": "Industries Solutions Resources Travel the upward curve towards a great data analytics career Explore open roles Home / Careers Unlock new opportunities with data analytics Sigmoid helps some of the world\u2019s largest companies transform the way they do business, thanks to our data engineering practices and AI solutions. We\u2019ve built our expertise with the best and brightest data scientists, welcoming new ways of thinking and innovative methods to unlock the potential of data science in solving the challenges businesses face today. Join us to discover abundant opportunities to work on the latest technologies and give your data science career a boost. Why join Sigmoid? 50+ AI, Cloud and Open-Source Technologies driving enterprise data & AI innovation 275,000+ Annual learning hours across data, AI, cloud, and consulting skills 80% Workforce from Tier-I and Tier-II institutes 35+ Fortune 500 clients across BFSI, CPG, and Life Sciences Work with us"
-        },
-        {
-          "title_line": "Unlock new opportunities with data analytics",
-          "age_days": null,
-          "jd_context": "Travel the upward curve towards a great data analytics career Explore open roles Home / Careers Unlock new opportunities with data analytics Sigmoid helps some of the world\u2019s largest companies transform the way they do business, thanks to our data engineering practices and AI solutions. We\u2019ve built our expertise with the best and brightest data scientists, welcoming new ways of thinking and innovative methods to unlock the potential of data science in solving the challenges businesses face today. Join us to discover abundant opportunities to work on the latest technologies and give your data science career a boost. Why join Sigmoid? 50+ AI, Cloud and Open-Source Technologies driving enterprise data & AI innovation 275,000+ Annual learning hours across data, AI, cloud, and consulting skills 80% Workforce from Tier-I and Tier-II institutes 35+ Fortune 500 clients across BFSI, CPG, and Life Sciences Work with us Early Careers Start your career with hands-on projects and learn from experts. Find your role"
-        },
-        {
-          "title_line": "Sr Data Scientist",
-          "age_days": null,
-          "jd_context": "Technical Progam Manager Great work environment and an awesome team to work with on some interesting business problems. Sigmoid proves to be a catalyst in my personal and professional growth. Pawan K Sr Data Scientist The work culture at Sigmoid is positive and professional. Team members, including managers, are friendly, collaborative and willing to lend a helping hand whenever needed. Everyone\u2019s point of view is appreciated and heard. The feedback and work assessment is provided with the intent of helping employees improve, which makes Sigmoid a great place to learn and grow. Simran A Data Engineer Sigmoid offers great opportunities to learn and grow. There is great freedom to innovate and express your passion for technology in ways which positively impact customers. Avenues to work with cross-functional teams enhances perspective which always helps to focus on the big picture and do both interesting as well as high impact work. Jayachandra S Technical Progam Manager Great work environment and an awesome team to work with on some interesting business problems. Sigmoid proves to be a catalyst in my personal and professional growth. Pawan K Sr Data Scientist The work culture at Sigmoid is positive and professional. Team members, including managers, are friendly, collaborative and willing to lend a helping hand whenever needed. Everyone\u2019s point of view is appreciated and heard. The feedback and work assessment is provided with the intent of helping employees improve, which makes Sigmoid a great place to learn and grow. Simran A Data Engineer Join Talent Community !"
-        },
-        {
-          "title_line": "Sr Data Scientist",
-          "age_days": null,
-          "jd_context": "Technical Progam Manager Great work environment and an awesome team to work with on some interesting business problems. Sigmoid proves to be a catalyst in my personal and professional growth. Pawan K Sr Data Scientist The work culture at Sigmoid is positive and professional. Team members, including managers, are friendly, collaborative and willing to lend a helping hand whenever needed. Everyone\u2019s point of view is appreciated and heard. The feedback and work assessment is provided with the intent of helping employees improve, which makes Sigmoid a great place to learn and grow. Simran A Data Engineer Join Talent Community ! Explore exciting career opportunities and the latest AI/ML and Data engineering with Sigmoid Career Page Popup Form Submit \u2715 Join the best talent in the fastest-growing data & analytics company >> Explore an exciting career in data analytics with rich peer-to-peer learning and deliver real-world business impact across the latest technology stack. Join our team ARTIFICIAL INTELLIGENCE AI Strategy"
-        },
-        {
-          "title_line": "Explore an exciting career in data analytics with rich peer-to-peer learning and deliver real-world business impact across the latest technology stack.",
-          "age_days": null,
-          "jd_context": "Submit \u2715 Join the best talent in the fastest-growing data & analytics company >> Explore an exciting career in data analytics with rich peer-to-peer learning and deliver real-world business impact across the latest technology stack. Join our team ARTIFICIAL INTELLIGENCE AI Strategy Agentic AI Generative AI AI Managed Services Responsible AI Advanced Analytics CLOUD & DATA Data Strategy Data Engineering Data Management Cloud Transformation DataOps"
-        }
-      ],
-      "error": null
+      "matches_no_date_found": [],
+      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.sigmoid.com/careers/\", waiting until \"domcontentloaded\"\n"
     },
     {
       "company": "Crayon Data",
@@ -325,10 +299,10 @@
     {
       "company": "Uni Cards",
       "url": "https://uni.cards/careers",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://uni.cards/careers\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "KreditBee",
@@ -357,10 +331,10 @@
     {
       "company": "Meesho",
       "url": "https://careers.meesho.com",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://careers.meesho.com/\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "Swiggy",
