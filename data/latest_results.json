@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-25T21:06:27.723780+00:00",
+  "checked_at_utc": "2026-10-26T22:53:22.108759+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -159,15 +159,9 @@
     {
       "company": "Affine Analytics",
       "url": "https://www.affine.ai/careers/",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
-      "matches_no_date_found": [
-        {
-          "title_line": "Consultant- Data Scientist with GenAI",
-          "age_days": null,
-          "jd_context": "View on SenseHQ DATA SCIENCE HYBRID Consultant- Data Scientist with GenAI Bengaluru 4-7 years Full Time CON01546 View Job DATA SCIENCE HYBRID Consultant - Machine Learning Engineer Bengaluru,Gurugram,remote 6-9 years Full Time CON01562 View Job DATA SCIENCE"
-        }
-      ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
@@ -277,10 +271,10 @@
     {
       "company": "Paytm",
       "url": "https://paytm.com/careers",
-      "status": "ok_no_matching_role_found",
+      "status": "blocked_or_failed",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": null
+      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://paytm.com/careers\", waiting until \"domcontentloaded\"\n"
     },
     {
       "company": "Cashfree Payments",
