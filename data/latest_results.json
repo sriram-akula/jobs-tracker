@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-26T22:53:22.108759+00:00",
+  "checked_at_utc": "2026-10-27T22:32:59.500143+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -13,8 +13,14 @@
     {
       "company": "Fractal Analytics",
       "url": "https://fractal.ai/careers/",
-      "status": "ok_role_found_no_date_or_stale",
-      "matches_under_3_days": [],
+      "status": "ok_with_fresh_match",
+      "matches_under_3_days": [
+        {
+          "title_line": "Data Scientist/Senior Data Scientist - Gen AI (5 to 10 Years)",
+          "age_days": 0,
+          "jd_context": "posted on Posted Today SR-46509 Data Scientist/Senior Data Scientist - Gen AI (5 to 10 Years) locations 6 Locations posted on Posted Today SR-24818 Full Stack Developer- WD locations Bengaluru posted on Posted Yesterday SR-45696 Senior AWS DevOps & Platform Engineer (6-9 Years) locations 6 Locations"
+        }
+      ],
       "matches_no_date_found": [],
       "error": null
     },
@@ -135,10 +141,36 @@
     {
       "company": "Sigmoid Analytics",
       "url": "https://www.sigmoid.com/careers/",
-      "status": "blocked_or_failed",
+      "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://www.sigmoid.com/careers/\", waiting until \"domcontentloaded\"\n"
+      "matches_no_date_found": [
+        {
+          "title_line": "Travel the upward curve towards a great data analytics career",
+          "age_days": null,
+          "jd_context": "Industries Solutions Resources Travel the upward curve towards a great data analytics career Explore open roles Home / Careers Unlock new opportunities with data analytics Sigmoid helps some of the world\u2019s largest companies transform the way they do business, thanks to our data engineering practices and AI solutions. We\u2019ve built our expertise with the best and brightest data scientists, welcoming new ways of thinking and innovative methods to unlock the potential of data science in solving the challenges businesses face today. Join us to discover abundant opportunities to work on the latest technologies and give your data science career a boost. Why join Sigmoid? 50+ AI, Cloud and Open-Source Technologies driving enterprise data & AI innovation 275,000+ Annual learning hours across data, AI, cloud, and consulting skills 80% Workforce from Tier-I and Tier-II institutes 35+ Fortune 500 clients across BFSI, CPG, and Life Sciences Work with us"
+        },
+        {
+          "title_line": "Unlock new opportunities with data analytics",
+          "age_days": null,
+          "jd_context": "Travel the upward curve towards a great data analytics career Explore open roles Home / Careers Unlock new opportunities with data analytics Sigmoid helps some of the world\u2019s largest companies transform the way they do business, thanks to our data engineering practices and AI solutions. We\u2019ve built our expertise with the best and brightest data scientists, welcoming new ways of thinking and innovative methods to unlock the potential of data science in solving the challenges businesses face today. Join us to discover abundant opportunities to work on the latest technologies and give your data science career a boost. Why join Sigmoid? 50+ AI, Cloud and Open-Source Technologies driving enterprise data & AI innovation 275,000+ Annual learning hours across data, AI, cloud, and consulting skills 80% Workforce from Tier-I and Tier-II institutes 35+ Fortune 500 clients across BFSI, CPG, and Life Sciences Work with us Early Careers Start your career with hands-on projects and learn from experts. Find your role"
+        },
+        {
+          "title_line": "Sr Data Scientist",
+          "age_days": null,
+          "jd_context": "Technical Progam Manager Great work environment and an awesome team to work with on some interesting business problems. Sigmoid proves to be a catalyst in my personal and professional growth. Pawan K Sr Data Scientist The work culture at Sigmoid is positive and professional. Team members, including managers, are friendly, collaborative and willing to lend a helping hand whenever needed. Everyone\u2019s point of view is appreciated and heard. The feedback and work assessment is provided with the intent of helping employees improve, which makes Sigmoid a great place to learn and grow. Simran A Data Engineer Sigmoid offers great opportunities to learn and grow. There is great freedom to innovate and express your passion for technology in ways which positively impact customers. Avenues to work with cross-functional teams enhances perspective which always helps to focus on the big picture and do both interesting as well as high impact work. Jayachandra S Technical Progam Manager Great work environment and an awesome team to work with on some interesting business problems. Sigmoid proves to be a catalyst in my personal and professional growth. Pawan K Sr Data Scientist The work culture at Sigmoid is positive and professional. Team members, including managers, are friendly, collaborative and willing to lend a helping hand whenever needed. Everyone\u2019s point of view is appreciated and heard. The feedback and work assessment is provided with the intent of helping employees improve, which makes Sigmoid a great place to learn and grow. Simran A Data Engineer Join Talent Community !"
+        },
+        {
+          "title_line": "Sr Data Scientist",
+          "age_days": null,
+          "jd_context": "Technical Progam Manager Great work environment and an awesome team to work with on some interesting business problems. Sigmoid proves to be a catalyst in my personal and professional growth. Pawan K Sr Data Scientist The work culture at Sigmoid is positive and professional. Team members, including managers, are friendly, collaborative and willing to lend a helping hand whenever needed. Everyone\u2019s point of view is appreciated and heard. The feedback and work assessment is provided with the intent of helping employees improve, which makes Sigmoid a great place to learn and grow. Simran A Data Engineer Join Talent Community ! Explore exciting career opportunities and the latest AI/ML and Data engineering with Sigmoid Career Page Popup Form Submit \u2715 Join the best talent in the fastest-growing data & analytics company >> Explore an exciting career in data analytics with rich peer-to-peer learning and deliver real-world business impact across the latest technology stack. Join our team ARTIFICIAL INTELLIGENCE AI Strategy"
+        },
+        {
+          "title_line": "Explore an exciting career in data analytics with rich peer-to-peer learning and deliver real-world business impact across the latest technology stack.",
+          "age_days": null,
+          "jd_context": "Submit \u2715 Join the best talent in the fastest-growing data & analytics company >> Explore an exciting career in data analytics with rich peer-to-peer learning and deliver real-world business impact across the latest technology stack. Join our team ARTIFICIAL INTELLIGENCE AI Strategy Agentic AI Generative AI AI Managed Services Responsible AI Advanced Analytics CLOUD & DATA Data Strategy Data Engineering Data Management Cloud Transformation DataOps"
+        }
+      ],
+      "error": null
     },
     {
       "company": "Crayon Data",
@@ -271,10 +303,10 @@
     {
       "company": "Paytm",
       "url": "https://paytm.com/careers",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://paytm.com/careers\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "Cashfree Payments",
@@ -639,9 +671,15 @@
     {
       "company": "Intuit",
       "url": "https://jobs.intuit.com",
-      "status": "ok_no_matching_role_found",
+      "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Discover what it took as Alex Zhou became a data Scientist at Intuit, including essential skillsets, and examples of high-impact projects.",
+          "age_days": null,
+          "jd_context": "AI is transforming fintech beyond traditional automation with intelligent systems for personalized experiences, real-time fraud detection, and efficiency. Blog Interview with an Intuit Principal Data Scientist Discover what it took as Alex Zhou became a data Scientist at Intuit, including essential skillsets, and examples of high-impact projects. Article 3 Ways to Drive Continuous AI Transformation To drive continuous AI innovation, businesses should consider three key strategies: rigorous technical reviews, cross-functional AI integration, and structured conflict resolution. 66 Results found. Sign Up for Job Alerts Be the first to find out about open jobs that fit what you're looking for. Sign Up Sitemap Insight Betterworks About Us Careers Press Room \u00a9 2025 Intuit Inc. All rights reserved."
+        }
+      ],
       "error": null
     },
     {
@@ -829,9 +867,20 @@
     {
       "company": "Tech Mahindra",
       "url": "https://careers.techmahindra.com",
-      "status": "ok_no_matching_role_found",
+      "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Sr. Data Analyst",
+          "age_days": null,
+          "jd_context": "Experience: 4 - 7 Years Location: BENGALURU IT Sr. Data Analyst Skills: Workday Payroll Effective Change Inteface(PECI) Experience: 4 - 7 Years Location: HYDERABAD IT Sr. Developer - Emerging Tech Skills: workday functional Experience: 4 - 7 Years Location: BENGALURU IT Sr. Data Analyst Skills: Workday Technical Experience: 4 - 7 Years Location: BENGALURU IT"
+        },
+        {
+          "title_line": "Sr. Data Analyst",
+          "age_days": null,
+          "jd_context": "Experience: 4 - 7 Years Location: BENGALURU IT Sr. Data Analyst Skills: Workday Technical Experience: 4 - 7 Years Location: BENGALURU IT Initiative Owner (IO) \u2013 Management Consultant Skills: Healthcare Strategy Experience: 5 - 10 Years Location: ROCHESTER IT Principal Mobile Engineer Skills: Mobile APP Development Experience: 7 - 10 Years Location: SCARBOROUGH IT"
+        }
+      ],
       "error": null
     },
     {
