@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-27T22:32:59.500143+00:00",
+  "checked_at_utc": "2026-10-28T22:50:25.059057+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -18,7 +18,7 @@
         {
           "title_line": "Data Scientist/Senior Data Scientist - Gen AI (5 to 10 Years)",
           "age_days": 0,
-          "jd_context": "posted on Posted Today SR-46509 Data Scientist/Senior Data Scientist - Gen AI (5 to 10 Years) locations 6 Locations posted on Posted Today SR-24818 Full Stack Developer- WD locations Bengaluru posted on Posted Yesterday SR-45696 Senior AWS DevOps & Platform Engineer (6-9 Years) locations 6 Locations"
+          "jd_context": "posted on Posted Today SR-47342 Data Scientist/Senior Data Scientist - Gen AI (5 to 10 Years) locations 6 Locations posted on Posted Yesterday SR-24818 Full Stack Developer- WD locations Bengaluru posted on Posted 2 Days Ago SR-45696 Senior AWS DevOps & Platform Engineer (6-9 Years) locations 6 Locations"
         }
       ],
       "matches_no_date_found": [],
@@ -671,15 +671,9 @@
     {
       "company": "Intuit",
       "url": "https://jobs.intuit.com",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
-      "matches_no_date_found": [
-        {
-          "title_line": "Discover what it took as Alex Zhou became a data Scientist at Intuit, including essential skillsets, and examples of high-impact projects.",
-          "age_days": null,
-          "jd_context": "AI is transforming fintech beyond traditional automation with intelligent systems for personalized experiences, real-time fraud detection, and efficiency. Blog Interview with an Intuit Principal Data Scientist Discover what it took as Alex Zhou became a data Scientist at Intuit, including essential skillsets, and examples of high-impact projects. Article 3 Ways to Drive Continuous AI Transformation To drive continuous AI innovation, businesses should consider three key strategies: rigorous technical reviews, cross-functional AI integration, and structured conflict resolution. 66 Results found. Sign Up for Job Alerts Be the first to find out about open jobs that fit what you're looking for. Sign Up Sitemap Insight Betterworks About Us Careers Press Room \u00a9 2025 Intuit Inc. All rights reserved."
-        }
-      ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
@@ -843,10 +837,10 @@
     {
       "company": "Wipro",
       "url": "https://careers.wipro.com",
-      "status": "ok_no_matching_role_found",
+      "status": "blocked_or_failed",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": null
+      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://careers.wipro.com/\", waiting until \"domcontentloaded\"\n"
     },
     {
       "company": "TCS",
@@ -867,20 +861,9 @@
     {
       "company": "Tech Mahindra",
       "url": "https://careers.techmahindra.com",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
-      "matches_no_date_found": [
-        {
-          "title_line": "Sr. Data Analyst",
-          "age_days": null,
-          "jd_context": "Experience: 4 - 7 Years Location: BENGALURU IT Sr. Data Analyst Skills: Workday Payroll Effective Change Inteface(PECI) Experience: 4 - 7 Years Location: HYDERABAD IT Sr. Developer - Emerging Tech Skills: workday functional Experience: 4 - 7 Years Location: BENGALURU IT Sr. Data Analyst Skills: Workday Technical Experience: 4 - 7 Years Location: BENGALURU IT"
-        },
-        {
-          "title_line": "Sr. Data Analyst",
-          "age_days": null,
-          "jd_context": "Experience: 4 - 7 Years Location: BENGALURU IT Sr. Data Analyst Skills: Workday Technical Experience: 4 - 7 Years Location: BENGALURU IT Initiative Owner (IO) \u2013 Management Consultant Skills: Healthcare Strategy Experience: 5 - 10 Years Location: ROCHESTER IT Principal Mobile Engineer Skills: Mobile APP Development Experience: 7 - 10 Years Location: SCARBOROUGH IT"
-        }
-      ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
