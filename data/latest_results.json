@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-28T22:50:25.059057+00:00",
+  "checked_at_utc": "2026-10-29T22:58:02.183178+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -17,8 +17,8 @@
       "matches_under_3_days": [
         {
           "title_line": "Data Scientist/Senior Data Scientist - Gen AI (5 to 10 Years)",
-          "age_days": 0,
-          "jd_context": "posted on Posted Today SR-47342 Data Scientist/Senior Data Scientist - Gen AI (5 to 10 Years) locations 6 Locations posted on Posted Yesterday SR-24818 Full Stack Developer- WD locations Bengaluru posted on Posted 2 Days Ago SR-45696 Senior AWS DevOps & Platform Engineer (6-9 Years) locations 6 Locations"
+          "age_days": 1,
+          "jd_context": "posted on Posted Yesterday SR-47342 Data Scientist/Senior Data Scientist - Gen AI (5 to 10 Years) locations 6 Locations posted on Posted 2 Days Ago SR-24818 Full Stack Developer- WD locations Bengaluru posted on Posted 3 Days Ago SR-45696 Senior AWS DevOps & Platform Engineer (6-9 Years) locations 6 Locations"
         }
       ],
       "matches_no_date_found": [],
@@ -837,10 +837,10 @@
     {
       "company": "Wipro",
       "url": "https://careers.wipro.com",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://careers.wipro.com/\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "TCS",
