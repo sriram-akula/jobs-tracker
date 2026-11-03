@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-01T22:20:16.109663+00:00",
+  "checked_at_utc": "2026-11-03T01:11:33.992318+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -13,15 +13,15 @@
     {
       "company": "Fractal Analytics",
       "url": "https://fractal.ai/careers/",
-      "status": "ok_role_found_no_date_or_stale",
-      "matches_under_3_days": [],
-      "matches_no_date_found": [
+      "status": "ok_with_fresh_match",
+      "matches_under_3_days": [
         {
           "title_line": "Senior Data Scientist",
-          "age_days": null,
-          "jd_context": "More Search for Jobs page is loaded 116 JOBS FOUND Senior Data Scientist locations New York posted on Posted Yesterday SR-45474 Lead AI Engineer - Generative AI & Agentic AI: Cogentiq locations 2 Locations posted on Posted 2 Days Ago SR-47489 Senior Marketing Analytics Consultant locations London"
+          "age_days": 0,
+          "jd_context": "posted on Posted Today SR-46509 Senior Data Scientist locations New York posted on Posted 2 Days Ago SR-45474 Lead AI Engineer - Generative AI & Agentic AI: Cogentiq locations 2 Locations posted on Posted 3 Days Ago SR-47489 Senior Marketing Analytics Consultant locations London"
         }
       ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
@@ -303,10 +303,10 @@
     {
       "company": "Paytm",
       "url": "https://paytm.com/careers",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://paytm.com/careers\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "Cashfree Payments",
