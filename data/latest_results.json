@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-07T22:13:41.530962+00:00",
+  "checked_at_utc": "2026-11-08T22:24:13.747447+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -13,7 +13,7 @@
     {
       "company": "Fractal Analytics",
       "url": "https://fractal.ai/careers/",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
       "error": null
