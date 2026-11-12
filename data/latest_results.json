@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-12T00:59:42.410364+00:00",
+  "checked_at_utc": "2026-11-12T23:49:01.759897+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -319,10 +319,10 @@
     {
       "company": "Uni Cards",
       "url": "https://uni.cards/careers",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://uni.cards/careers\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "KreditBee",
