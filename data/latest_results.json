@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-10T23:42:47.341405+00:00",
+  "checked_at_utc": "2026-11-12T00:59:42.410364+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -297,10 +297,10 @@
     {
       "company": "Paytm",
       "url": "https://paytm.com/careers",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://paytm.com/careers\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "Cashfree Payments",
@@ -855,20 +855,9 @@
     {
       "company": "Tech Mahindra",
       "url": "https://careers.techmahindra.com",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
-      "matches_no_date_found": [
-        {
-          "title_line": "Skills: Power BI Data Analyst",
-          "age_days": null,
-          "jd_context": "Location: SAN JOSE IT Specialist Analytics Engineer Skills: Power BI Data Analyst Experience: 7 - 10 Years Location: HYDERABAD IT Sr. Software Engineer Skills: Power BI Data Analyst Experience: 7 - 10 Years Location: BENGALURU IT SAP Group Reporting Skills: SAP Group Reporting Experience: 7 - 14 Years Location: NOIDA IT Sr. Database Administrator"
-        },
-        {
-          "title_line": "Skills: Power BI Data Analyst",
-          "age_days": null,
-          "jd_context": "Location: HYDERABAD IT Sr. Software Engineer Skills: Power BI Data Analyst Experience: 7 - 10 Years Location: BENGALURU IT SAP Group Reporting Skills: SAP Group Reporting Experience: 7 - 14 Years Location: NOIDA IT Sr. Database Administrator Skills: Oracle Database Administration Experience: 4 - 10 Years Location: NEW DELHI IT Techno Functional Analyst (Business Analyst) - Insurance"
-        }
-      ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
