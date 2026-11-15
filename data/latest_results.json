@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-14T22:44:40.313202+00:00",
+  "checked_at_utc": "2026-11-15T23:06:55.680885+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -49,9 +49,35 @@
     {
       "company": "Gramener (Straive)",
       "url": "https://gramener.com/careers/",
-      "status": "ok_no_matching_role_found",
+      "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Data Analyst",
+          "age_days": null,
+          "jd_context": "Noida Location Business Development Data Analyst Data Architect Data Engineer Data Scientist Data Consultant Developer QA Engineer SBU Head UI UX Designer Snowflake Engineer Department Marketing Analyst Hyderabad/ The Marketing Analyst will support marketing and growth teams by building market intelligence insights, and providing data-driven operational support to campaigns and go-to-market initiatives. Know More"
+        },
+        {
+          "title_line": "Data Scientist",
+          "age_days": null,
+          "jd_context": "Data Analyst Data Architect Data Engineer Data Scientist Data Consultant Developer QA Engineer SBU Head UI UX Designer Snowflake Engineer Department Marketing Analyst Hyderabad/ The Marketing Analyst will support marketing and growth teams by building market intelligence insights, and providing data-driven operational support to campaigns and go-to-market initiatives. Know More Junior UI/UX Engineer Hyderabad/ Collaborate with marketing and sales teams to design and implement website updates and landing pages."
+        },
+        {
+          "title_line": "Data Scientist (GenAI & NLP)",
+          "age_days": null,
+          "jd_context": "Hyderabad/Bangalore/Chennai Leadership: Lead client engagements to design and deliver data-driven solutions and applications. Know More Data Scientist (GenAI & NLP) Hyderabad/Bangalore/Chennai Understand business problems, making sense of the data landscape & footprint, performing a combination of exploratory, Machine Learning & Advanced Analytics on textual data. Know More Snowflake Platform Engineer Hyderabad/Bangalore/Chennai Experience with monitoring, incident management, and platform governance. Know More Python Developer \u2013 GenAI/NLP Integration Hyderabad/Bangalore Core Python Development: 4\u20138 years of hands-on experience. Know More Senior UI/UX Designer Hyderabad/Bangalore/Chennai Collaborate with data consultants, developers, and stakeholders to translate project requirements into effective design solutions."
+        },
+        {
+          "title_line": "Lead Data Scientist \u2013 SFE Analytics",
+          "age_days": null,
+          "jd_context": "Hyderabad / Bangalore / Noida Lead the end-to-end architecture and design of Python-based applications integrated with GenAI capabilities. Know More Lead Data Scientist \u2013 SFE Analytics Hyderabad Worked extensively on SFE Analytics (Pharma preferred). Know More ML Ops Engineer Hyderabad/Bangalore/Chennai/Noida Design the data pipelines and engineering infrastructure to support enterprise machine learning systems at scale. Know More AWS DevOps Engineer Hyderabad/Bangalore/Chennai/Noida AWS cloud with serverless (ECS, Kubernetes, RDS, Lambda, Beanstalk, etc.) and all regular services like VPC, EC2, Storage. Know More GenAI Lead Hyderabad/Bangalore/Chennai/Gurugram/Mumbai Understand business problems, making sense of the data landscape & footprint, performing a combination of exploratory, Machine Learning & Advanced Analytics on textual data."
+        },
+        {
+          "title_line": "Data Scientist",
+          "age_days": null,
+          "jd_context": "Hyderabad Execute targeted outreach campaigns leveraging cold calling, LinkedIn, email, and other social platforms to generate leads. Know More Data Scientist Bangalore Validate the models developed against statistical robustness and business sense. Know More Senior Full-Stack Developer Bangalore AWS or Azure cloud, Server management with basic visualization. Know More Python Fast API Developer Bangalore Participate in the entire software development lifecycle, building, testing, and delivering high-quality solutions. Know More Tech Lead \u2013 Full Stack \u2013 Javascript/ Python Bangalore | Hyderabad Knowledge of base scaffolding framework, models, algorithms, and point solutions and integrating them with custom solutions to meet client needs"
+        }
+      ],
       "error": null
     },
     {
@@ -373,10 +399,10 @@
     {
       "company": "Zomato (Eternal)",
       "url": "https://www.zomato.com/careers",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.zomato.com/careers\nCall log:\nnavigating to \"https://www.zomato.com/careers\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "Zepto",
@@ -847,10 +873,10 @@
     {
       "company": "HCLTech",
       "url": "https://www.hcltech.com/careers",
-      "status": "blocked_or_failed",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.hcltech.com/careers\nCall log:\nnavigating to \"https://www.hcltech.com/careers\", waiting until \"domcontentloaded\"\n"
+      "error": null
     },
     {
       "company": "Tech Mahindra",
