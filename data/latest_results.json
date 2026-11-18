@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-17T02:01:06.298017+00:00",
+  "checked_at_utc": "2026-11-18T01:10:59.653991+00:00",
   "max_age_days_filter": 3,
   "results": [
     {
@@ -16,9 +16,14 @@
       "status": "ok_with_fresh_match",
       "matches_under_3_days": [
         {
-          "title_line": "Data Scientist",
+          "title_line": "Data Scientist- Gen AI",
           "age_days": 0,
-          "jd_context": "posted on Posted Today SR-47695 Data Scientist locations New York posted on Posted 3 Days Ago SR-47889 Product/Platform Architect locations New York posted on Posted 3 Days Ago SR-47887 Senior Delivery Leader locations New York"
+          "jd_context": "posted on Posted Today SR-47001 Data Scientist- Gen AI locations 8 Locations posted on Posted Today SR-47746 Consulting Lead \u2013 Supply Chain (Manufacturing Execution Systems) locations Amsterdam posted on Posted Yesterday SR-47824 Senior CPG Account Growth Manager locations 3 Locations"
+        },
+        {
+          "title_line": "Data Scientist",
+          "age_days": 1,
+          "jd_context": "posted on Posted Yesterday SR-47695 Data Scientist locations New York posted on Posted 4 Days Ago SR-47889 Product/Platform Architect locations New York posted on Posted 4 Days Ago SR-47887 Senior Delivery Leader locations New York"
         }
       ],
       "matches_no_date_found": [],
@@ -183,17 +188,34 @@
     {
       "company": "Marlabs",
       "url": "https://www.marlabs.com/careers",
-      "status": "ok_no_matching_role_found",
+      "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "As a part of the Google Cloud Partner Network, Marlabs transforms organizations into data-driven and AI-empowered enterprises. The Google Cloud Platform has hun",
+          "age_days": null,
+          "jd_context": "Amazon AWS Part of the AWS Partner Network (APN), Marlabs\u2019 certified experts can meet all your AWS needs. We provide scalable, future-ready AWS solutions for data initiatives, digital infrastructures, cloud migrations, application development, AI implementations, and more. Google Cloud As a part of the Google Cloud Partner Network, Marlabs transforms organizations into data-driven and AI-empowered enterprises. The Google Cloud Platform has hundreds of tools in their AI, ML, and data analytics suite, and our experts are here to help you navigate which ones will best meet your organization\u2019s needs. Microsoft As an official partner of Microsoft Fabric, Marlabs implements solutions for Azure, Power BI, Data Factory, Power Apps, and Copilot. For over 18 years, we\u2019ve taken clients from strategy through execution for all their Microsoft needs and enabled internal teams to fully adopt their solutions. Snowflake With our team of certified Snowflake architects, Marlabs is uniquely positioned to shorten your time to value with Snowflake\u2019s data warehousing. Our architects partner with you to develop a holistic and well-integrated solution that enables you to reach your business objectives. Perfecter.ai An official Perfecter.ai partner, Marlabs employs autonomous intelligence through Perfecter.ai AI agents. These solutions are particularly well-known in the financial services industry for offering secure, automatic workflows that slash manual effort by 70%. Profisee Marlabs is a certified partner with Profisee, a leader in data management software. Their solutions are tailored for integration with Microsoft environments, and our cross-trained experts are specially qualified to help organizations bring their data strategy to life with these integrations. ArchLynk SAP Marlabs\u2019 certified Databricks engineers, together with their expert SAP partners at ArchLynk, bridge the gap between operational and supply chain data within SAP and the innovative data science and AI capabilities of"
+        }
+      ],
       "error": null
     },
     {
       "company": "Affine Analytics",
       "url": "https://www.affine.ai/careers/",
-      "status": "ok_no_matching_role_found",
+      "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Consultant Data Scientist",
+          "age_days": null,
+          "jd_context": "View Job DATA SCIENCE HYBRID Consultant Data Scientist Bengaluru 4-8 years Full Time CON01544 View Job DATA SCIENCE HYBRID Consultant- Data Scientist with GenAI Bengaluru 4-7 years Full Time CON01546 View Job DATA SCIENCE"
+        },
+        {
+          "title_line": "Consultant- Data Scientist with GenAI",
+          "age_days": null,
+          "jd_context": "View Job DATA SCIENCE HYBRID Consultant- Data Scientist with GenAI Bengaluru 4-7 years Full Time CON01546 View Job DATA SCIENCE HYBRID Principal Data Scientist Gen AI Bengaluru 7-10 years Full Time PRI01545 View Job ENGINEERING"
+        }
+      ],
       "error": null
     },
     {
@@ -303,23 +325,17 @@
     {
       "company": "Paytm",
       "url": "https://paytm.com/careers",
-      "status": "ok_no_matching_role_found",
+      "status": "blocked_or_failed",
       "matches_under_3_days": [],
       "matches_no_date_found": [],
-      "error": null
+      "error": "Page.goto: Timeout 35000ms exceeded.\nCall log:\nnavigating to \"https://paytm.com/careers\", waiting until \"domcontentloaded\"\n"
     },
     {
       "company": "Cashfree Payments",
       "url": "https://www.cashfree.com/careers/",
-      "status": "ok_role_found_no_date_or_stale",
+      "status": "ok_no_matching_role_found",
       "matches_under_3_days": [],
-      "matches_no_date_found": [
-        {
-          "title_line": "Data Scientist-3",
-          "age_days": null,
-          "jd_context": "Full time \u2022 On-Site Apply Now Engineering Data Scientist-3 Bellandur, Karnataka, India Full time \u2022 On-Site Apply Now Engineering Principal Security Engineer Bellandur, Karnataka, India Full time \u2022 On-Site Apply Now Engineering SOC Engineer 3 Bellandur, Karnataka, India Full time \u2022 On-Site Apply Now Risk & Compliance"
-        }
-      ],
+      "matches_no_date_found": [],
       "error": null
     },
     {
@@ -671,9 +687,15 @@
     {
       "company": "Intuit",
       "url": "https://jobs.intuit.com",
-      "status": "ok_no_matching_role_found",
+      "status": "ok_role_found_no_date_or_stale",
       "matches_under_3_days": [],
-      "matches_no_date_found": [],
+      "matches_no_date_found": [
+        {
+          "title_line": "Discover what it took as Alex Zhou became a data Scientist at Intuit, including essential skillsets, and examples of high-impact projects.",
+          "age_days": null,
+          "jd_context": "AI is transforming fintech beyond traditional automation with intelligent systems for personalized experiences, real-time fraud detection, and efficiency. Blog Interview with an Intuit Principal Data Scientist Discover what it took as Alex Zhou became a data Scientist at Intuit, including essential skillsets, and examples of high-impact projects. Article 3 Ways to Drive Continuous AI Transformation To drive continuous AI innovation, businesses should consider three key strategies: rigorous technical reviews, cross-functional AI integration, and structured conflict resolution. 66 Results found. Sign Up for Job Alerts Be the first to find out about open jobs that fit what you're looking for. Sign Up Sitemap Insight Betterworks About Us Careers Press Room \u00a9 2025 Intuit Inc. All rights reserved."
+        }
+      ],
       "error": null
     },
     {
